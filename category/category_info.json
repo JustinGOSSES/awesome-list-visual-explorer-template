@@ -1,0 +1,157 @@
+{
+    "data": {
+        "DATAUNDERGROUND": {
+            "title": "DATAUNDERGROUND",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/performance.svg",
+                "alt": "DATAUNDERGROUND or DATAUNDERGROUND related"
+            },
+            "description" : {
+                "short": "Repos having to do with the DATAUNDERGROUND site or that use datasets from DATAUNDERGROUND",
+                "long": ""
+            },
+            "topics": [
+                "DATAUNDERGROUND",
+                "dataunderground"
+            ]
+        },
+        "BUILD TOOLS": {
+            "title": "Geology",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/build-tools.svg",
+                "alt": "Geology"
+            },
+            "description": {
+                "short": "Geology topic tagged repos",
+                "long": ""
+            },
+            "topics": [
+                "geology"
+            ]
+        },
+        "GEOPHYSICS": {
+            "title": "GEOPHYSICS",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/math.svg",
+                "alt": "Geophysics"
+            },
+            "description": {
+                "short": "Geophysics topic tagged repositories",
+                "long": ""
+            },
+            "topics": [
+                "Geophysics",
+                "geophysics"
+            ]
+        },
+        "SEISMOLOGY": {
+            "title": "SEISMOLOGY",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/math.svg",
+                "alt": "SEISMOLOGY"
+            },
+            "description": {
+                "short": "SEISMOLOGY topic tagged repositories",
+                "long": ""
+            },
+            "topics": [
+                "SEISMOLOGY",
+                "seismology",
+                "earth-quakes",
+                "earthquakes"
+            ]
+        },
+        "DATA MANAGEMENT & VIZ": {
+            "title": "DATA MANAGEMENT",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/data-manage.svg",
+                "alt": "Data Management"
+            },
+            "description": {
+                "short": "Data and data management repositories",
+                "long": ""
+            },
+            "topics": [
+                "data-management"
+            ]
+        },
+        "WEB SITES & APPLICATIONS": {
+            "title": "WEB SITES & APPLICATIONS",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/application.svg",
+                "alt": "WEB SITES & APPLICATIONS"
+            },
+            "description": {
+                "short": "Repositories that are WEB SITES & APPLICATIONS",
+                "long": ""
+            },
+            "topics": [
+                "application",
+                "applications",
+                "website",
+                "websites"
+            ]
+        },
+        "PROXY APPLICATIONS": {
+            "title": "Visualization",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/prox-app.svg",
+                "alt": "data visualization"
+            },
+            "description": {
+                "short": "repos tagged with the data-visualization or visualization topic",
+                "long": ""
+            },
+            "topics": [
+                "visualization",
+                "data-visualization",
+                "dataviz"
+            ]
+        },
+        "SYSTEM SOFTWARE": {
+            "title": "SYSTEM SOFTWARE",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/system-software.svg",
+                "alt": "Systems Software"
+            },
+            "description": {
+                "short": "Manage laptop and desktop computer systems, HPC clusters, and parallel environments",
+                "long": ""
+            },
+            "topics": [
+                "system-software"
+            ]
+        },
+        "WELL LOGS": {
+            "title": "WELL LOGS",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/portable.svg",
+                "alt": "Well logs"
+            },
+            "description": {
+                "short": "Repos tagged with the well, well log, petrophysics, or well-logs topic.",
+                "long": ""
+            },
+            "topics": [
+                "well-logs",
+                "welllog",
+                "well-log",
+                "petrophysics"
+            ]
+        },
+        "DATA MINING": {
+            "title": "DATA MINING",
+            "icon": {
+                "path": "/open_geosciene_code_projects_viz/assets/images/file-systems.svg",
+                "alt": "File Systems"
+            },
+            "description": {
+                "short": "Repos tagged with the data-mining topic tag.",
+                "long": ""
+            },
+            "topics": [
+                "data-mining"
+            ]
+        }
+    }
+}

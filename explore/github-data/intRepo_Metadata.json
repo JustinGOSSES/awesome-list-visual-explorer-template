@@ -1,0 +1,2245 @@
+{
+    "FRI-Energy-Analytics/2020_summer_fellows": {
+        "description": "A repository for FRI Energy Analytics fellows",
+        "name": "FRI-Energy-Analytics/2020_summer_fellows",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/2021_summer_fellows": {
+        "description": "repository for the 2021 EA summer fellows",
+        "name": "FRI-Energy-Analytics/2021_summer_fellows",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/academic-poster-template": {
+        "description": "An HTML+CSS template for making more accessible posters",
+        "name": "FRI-Energy-Analytics/academic-poster-template",
+        "topics": null,
+        "website": "https://cpitclaudel.github.io/academic-poster-template/tutorial/poster.html"
+    },
+    "FRI-Energy-Analytics/alaska": {
+        "description": "AlasKA well log LAS file aliaser",
+        "name": "FRI-Energy-Analytics/alaska",
+        "topics": null,
+        "website": ""
+    },
+    "FRI-Energy-Analytics/energyanalytics": {
+        "description": "Repository for the FRI Energy Analytics Stream CS 309",
+        "name": "FRI-Energy-Analytics/energyanalytics",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/extra_credit": {
+        "description": null,
+        "name": "FRI-Energy-Analytics/extra_credit",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/project": {
+        "description": "2020 FRI EA final project",
+        "name": "FRI-Energy-Analytics/project",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/sandbox": {
+        "description": "FRI sandbox for learning GitHub without breaking anything",
+        "name": "FRI-Energy-Analytics/sandbox",
+        "topics": null,
+        "website": null
+    },
+    "GenericMappingTools/pygmt": {
+        "description": "A Python interface for the Generic Mapping Tools.",
+        "name": "GenericMappingTools/pygmt",
+        "topics": [
+            "python",
+            "geoscience",
+            "earth-science",
+            "geophysics",
+            "maps",
+            "seismology",
+            "hacktoberfest"
+        ],
+        "website": "https://www.pygmt.org"
+    },
+    "GeoPyTool/GeoPyTool": {
+        "description": "An application based on Python and designed as a solution for geology related daily work.",
+        "name": "GeoPyTool/GeoPyTool",
+        "topics": [
+            "geology",
+            "python",
+            "chemistry",
+            "structual",
+            "geochemistry",
+            "sedim",
+            "sedimentary",
+            "cugb"
+        ],
+        "website": "http://geopytool.com/"
+    },
+    "Geode-solutions/OpenGeode": {
+        "description": "Open source framework for representing and manipulating geometric models",
+        "name": "Geode-solutions/OpenGeode",
+        "topics": [
+            "brep",
+            "modeling",
+            "mesh",
+            "meshing"
+        ],
+        "website": "https://geode-solutions.com/opengeode"
+    },
+    "GeoscienceAustralia/geophys_utils": {
+        "description": "A collection of utilities for discovering, accessing and using geophysics data via web services or from netCDF files",
+        "name": "GeoscienceAustralia/geophys_utils",
+        "topics": null,
+        "website": null
+    },
+    "GeoscienceAustralia/uncover-ml": {
+        "description": "Machine Learning system for Geoscience Australia uncover project",
+        "name": "GeoscienceAustralia/uncover-ml",
+        "topics": null,
+        "website": ""
+    },
+    "GeostatsGuy/GeostatsPy": {
+        "description": "GeostatsPy Python package for spatial data analytics and geostatistics. Mostly a reimplementation of GSLIB, Geostatistical Library (Deutsch and Journel, 1992) in Python. Geostatistics in a Python package. I hope this resources is helpful, Prof. Michael Pyrcz ",
+        "name": "GeostatsGuy/GeostatsPy",
+        "topics": [
+            "geostatistics",
+            "statistics",
+            "spatial",
+            "dataanalytics",
+            "modeling"
+        ],
+        "website": "https://pypi.org/project/geostatspy/"
+    },
+    "JohnWStockwellJr/OpenSeaSeis": {
+        "description": "The OpenSeaSeis open source seismic viewer and processing environment.",
+        "name": "JohnWStockwellJr/OpenSeaSeis",
+        "topics": null,
+        "website": ""
+    },
+    "JohnWStockwellJr/SeisUnix": {
+        "description": "The CWP/SU: Seismic Un*x Package - a free open seismic processing, research, and educational software package. Please seek distribution gzipped tar files at https://wiki.Seismic-Unix.org not the Github version.",
+        "name": "JohnWStockwellJr/SeisUnix",
+        "topics": null,
+        "website": "https://wiki.Seismic-Unix.org"
+    },
+    "JuliaEarth/GeoStats.jl": {
+        "description": "An extensible framework for high-performance geostatistics in Julia",
+        "name": "JuliaEarth/GeoStats.jl",
+        "topics": [
+            "geostatistics",
+            "spatial-data",
+            "spatial-statistics",
+            "variography",
+            "geospatial",
+            "geo",
+            "statistics",
+            "spatial",
+            "geostats",
+            "estimation",
+            "simulation",
+            "learning",
+            "point-patterns",
+            "interpolation",
+            "kriging",
+            "gaussian-processes"
+        ],
+        "website": "https://juliaearth.github.io/GeoStats.jl/stable"
+    },
+    "JustinGOSSES/predictatops": {
+        "description": "Stratigraphic pick prediction via supervised machine-learning",
+        "name": "JustinGOSSES/predictatops",
+        "topics": [
+            "geology",
+            "stratigraphy",
+            "geoscience",
+            "machine-learning",
+            "hackathon-project",
+            "well-logs",
+            "dataunderground",
+            "athabasca",
+            "athabasca-preprocessed"
+        ],
+        "website": "https://justingosses.github.io/predictatops/html/index.html"
+    },
+    "JustinGOSSES/wellio.js": {
+        "description": "JavaScript for converting well-log standard .las file format to json format",
+        "name": "JustinGOSSES/wellio.js",
+        "topics": [
+            "las",
+            "geology",
+            "javascript",
+            "json-parser",
+            "well-logs",
+            "geoscience",
+            "dataunderground",
+            "athabasca",
+            "athabasca-preprocessed"
+        ],
+        "website": "https://justingosses.github.io/wellio.js/"
+    },
+    "JustinGOSSES/wellioviz": {
+        "description": "d3.js v5 visualization of well logs ",
+        "name": "JustinGOSSES/wellioviz",
+        "topics": [
+            "visualization",
+            "javascript",
+            "well-logs",
+            "geology",
+            "tool",
+            "d3",
+            "swung-t20",
+            "welllogs",
+            "dataunderground",
+            "athabasca",
+            "athabasca-preprocessed"
+        ],
+        "website": "https://justingosses.github.io/wellioviz/#introduction"
+    },
+    "Loop3D/.github": {
+        "description": null,
+        "name": "Loop3D/.github",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/GKM": {
+        "description": "Geoscience Knowledge Manager",
+        "name": "Loop3D/GKM",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/GKM-Public": {
+        "description": "Geoscience Knowledge Manager",
+        "name": "Loop3D/GKM-Public",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/GeoSwarm": {
+        "description": "Demo examples of structural agents for sparse data configurations",
+        "name": "Loop3D/GeoSwarm",
+        "topics": null,
+        "website": ""
+    },
+    "Loop3D/GeologicalTopology-GraphML": {
+        "description": null,
+        "name": "Loop3D/GeologicalTopology-GraphML",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/ImplicitBenchmark": {
+        "description": "Data for the implicit structural modeling benchmark paper",
+        "name": "Loop3D/ImplicitBenchmark",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/Loop3D": {
+        "description": "Loop 3D GUI",
+        "name": "Loop3D/Loop3D",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/LoopProjectFile": {
+        "description": null,
+        "name": "Loop3D/LoopProjectFile",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/LoopProjectFile-cpp": {
+        "description": null,
+        "name": "Loop3D/LoopProjectFile-cpp",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/LoopStructural": {
+        "description": "LoopStructural is an open-source 3D structural geological modelling library. ",
+        "name": "Loop3D/LoopStructural",
+        "topics": [
+            "geoscience",
+            "geology",
+            "interpolation",
+            "geology-modelling",
+            "structural-geology",
+            "folds",
+            "faults",
+            "kinematics",
+            "implicit-modelling",
+            "3d-modelling"
+        ],
+        "website": ""
+    },
+    "Loop3D/LoopStructuralWorkshop": {
+        "description": null,
+        "name": "Loop3D/LoopStructuralWorkshop",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/T21": {
+        "description": "Workshop for the subsurface T21 ",
+        "name": "Loop3D/T21",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/To-Ranee": {
+        "description": "for sending csv files",
+        "name": "Loop3D/To-Ranee",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/Turner_Syncline": {
+        "description": null,
+        "name": "Loop3D/Turner_Syncline",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/conda-publish-action": {
+        "description": "Github Action to deploy conda package to Anaconda repository",
+        "name": "Loop3D/conda-publish-action",
+        "topics": null,
+        "website": ""
+    },
+    "Loop3D/dh2loop": {
+        "description": "A package to extract information from drillholes to feed 3D modelling packages",
+        "name": "Loop3D/dh2loop",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/ensemble_generator": {
+        "description": "Functions for generating and analysing ensembles of geological models",
+        "name": "Loop3D/ensemble_generator",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/github-action-push-to-another-repository": {
+        "description": "github Action to push files into another Github repository",
+        "name": "Loop3D/github-action-push-to-another-repository",
+        "topics": null,
+        "website": ""
+    },
+    "Loop3D/hjson": {
+        "description": null,
+        "name": "Loop3D/hjson",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/lavavu": {
+        "description": null,
+        "name": "Loop3D/lavavu",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/loop-conda": {
+        "description": "A repository with build recipes for loop3d channel ",
+        "name": "Loop3D/loop-conda",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/loop3d.github.io": {
+        "description": null,
+        "name": "Loop3D/loop3d.github.io",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/loopUI": {
+        "description": null,
+        "name": "Loop3D/loopUI",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/loop_nightly": {
+        "description": "This repository will handle creating nightly releases of Loop code: LoopStructural, map2loop",
+        "name": "Loop3D/loop_nightly",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/loopy-conda": {
+        "description": "Complete programmatic Loop workflow in one package.",
+        "name": "Loop3D/loopy-conda",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/map2loop-2": {
+        "description": null,
+        "name": "Loop3D/map2loop-2",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/map2loop2-notebooks": {
+        "description": null,
+        "name": "Loop3D/map2loop2-notebooks",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/map2model_cpp": {
+        "description": null,
+        "name": "Loop3D/map2model_cpp",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/model_library": {
+        "description": "Example jupyter notebooks and models",
+        "name": "Loop3D/model_library",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/mplstereonet": {
+        "description": null,
+        "name": "Loop3D/mplstereonet",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/noddyverse": {
+        "description": null,
+        "name": "Loop3D/noddyverse",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/publish_to_conda": {
+        "description": "cross platform action to publish python libaries to conda channels.",
+        "name": "Loop3D/publish_to_conda",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/python-wheels-manylinux-build": {
+        "description": "GitHub Action to build Python manylinux wheels",
+        "name": "Loop3D/python-wheels-manylinux-build",
+        "topics": null,
+        "website": "https://github.com/marketplace/actions/python-wheels-manylinux-build"
+    },
+    "Loop3D/staged-recipes": {
+        "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
+        "name": "Loop3D/staged-recipes",
+        "topics": null,
+        "website": "https://conda-forge.org"
+    },
+    "Loop3D/surfe": {
+        "description": "Surface modelling engine for geological applications",
+        "name": "Loop3D/surfe",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/w3id.org": {
+        "description": "Website source code for w3id.org",
+        "name": "Loop3D/w3id.org",
+        "topics": null,
+        "website": null
+    },
+    "MTgeophysics/mtpy": {
+        "description": "Python toolbox for standard Magnetotelluric (MT) data analysis",
+        "name": "MTgeophysics/mtpy",
+        "topics": null,
+        "website": ""
+    },
+    "NSGeophysics/GPRPy": {
+        "description": "Ground Penetrating Radar processing and visualization software for python",
+        "name": "NSGeophysics/GPRPy",
+        "topics": null,
+        "website": null
+    },
+    "Neil-Symington/AEM2SEG-Y": {
+        "description": "A package for converting AEM conductivity line data into seg-y format for use in 3D packages",
+        "name": "Neil-Symington/AEM2SEG-Y",
+        "topics": null,
+        "website": null
+    },
+    "Neil-Symington/borehole_gfx_utils": {
+        "description": "Package for processing induction/ gamma borehole data",
+        "name": "Neil-Symington/borehole_gfx_utils",
+        "topics": null,
+        "website": null
+    },
+    "Neil-Symington/garjmcmctdem_utils": {
+        "description": "A collection of python based utilities for visualising, analysing and interpreting the results of transdimensionsal AEM inversions. ",
+        "name": "Neil-Symington/garjmcmctdem_utils",
+        "topics": null,
+        "website": null
+    },
+    "OPM/ResInsight": {
+        "description": "3D viewer and post processing of reservoir models",
+        "name": "OPM/ResInsight",
+        "topics": [
+            "visualization",
+            "octave",
+            "reservoir-modeling",
+            "eclipse",
+            "cross-platform",
+            "opengl",
+            "c-plus-plus",
+            "geomechanics",
+            "python"
+        ],
+        "website": "http://resinsight.org/"
+    },
+    "OpenGeoVis/PVGeo": {
+        "description": "Python package of VTK-based algorithms to analyze geoscientific data and models",
+        "name": "OpenGeoVis/PVGeo",
+        "topics": [
+            "data-visualization",
+            "geophysics",
+            "geosciences",
+            "paraview-plugin",
+            "paraview",
+            "visual-data-integration",
+            "open-science",
+            "python",
+            "model-building",
+            "vtk",
+            "visualization",
+            "3d"
+        ],
+        "website": "https://pvgeo.org"
+    },
+    "OpenGeoVis/omfvista": {
+        "description": "3D visualization for the Open Mining Format (omf)",
+        "name": "OpenGeoVis/omfvista",
+        "topics": null,
+        "website": "https://opengeovis.github.io/omfvista/"
+    },
+    "OpenGeoscience/geonotebook": {
+        "description": "A Jupyter notebook extension for geospatial visualization and analysis",
+        "name": "OpenGeoscience/geonotebook",
+        "topics": [
+            "notebook",
+            "mapnik",
+            "jupyter",
+            "jupyter-notebook-extension",
+            "tile-server",
+            "python",
+            "opengeoscience",
+            "analysis"
+        ],
+        "website": ""
+    },
+    "OpendTect/OpendTect": {
+        "description": "4cce3e7a",
+        "name": "OpendTect/OpendTect",
+        "topics": null,
+        "website": ""
+    },
+    "SeisComP/seiscomp": {
+        "description": "The build environment for all SeisComP repositories. Includes the documentation.",
+        "name": "SeisComP/seiscomp",
+        "topics": null,
+        "website": null
+    },
+    "Zabamund/wellpathpy": {
+        "description": "Well deviation import",
+        "name": "Zabamund/wellpathpy",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/AVO_app": {
+        "description": "Geophysical analysis app for Android; AppInventor project",
+        "name": "agile-geoscience/AVO_app",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/Booster_bootcamp": {
+        "description": "Intro to Python bootcamp at Booster Total, Paris, June 9, 2017",
+        "name": "agile-geoscience/Booster_bootcamp",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/LASinfections": {
+        "description": "Examples of LAS files that have been infected, diseased, broken, and in need of treatment.",
+        "name": "agile-geoscience/LASinfections",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/MalenoV": {
+        "description": "Complete tool for training &  classifying on 3D SEGY seismic using deep neural networks",
+        "name": "agile-geoscience/MalenoV",
+        "topics": null,
+        "website": ""
+    },
+    "agile-geoscience/Pintclone": {
+        "description": "Tiny pinterest clone in Python with flask",
+        "name": "agile-geoscience/Pintclone",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/SLC-logo-generation": {
+        "description": "Scripts and notebooks needed to reproduce the SLC hackathon logo",
+        "name": "agile-geoscience/SLC-logo-generation",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/Texture_classification": {
+        "description": "Texture classification of seismic data",
+        "name": "agile-geoscience/Texture_classification",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/Volume_app": {
+        "description": "Subsurface volumetrics and risking",
+        "name": "agile-geoscience/Volume_app",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/Wiki_bots": {
+        "description": "Bots for MediaWiki wikis",
+        "name": "agile-geoscience/Wiki_bots",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/agile-geoscience.github.io": {
+        "description": "Pages site for Agile Geoscience",
+        "name": "agile-geoscience/agile-geoscience.github.io",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/bruges": {
+        "description": "Geophysics library with various helpful functions",
+        "name": "agile-geoscience/bruges",
+        "topics": [
+            "geophysics",
+            "seismology",
+            "petrophysics",
+            "python"
+        ],
+        "website": null
+    },
+    "agile-geoscience/digidisc": {
+        "description": "Digital discovery for geoscientists",
+        "name": "agile-geoscience/digidisc",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/digilead": {
+        "description": "Digital Leadership course",
+        "name": "agile-geoscience/digilead",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/freqbot": {
+        "description": "Skunkworks flask app for random geophysics stuff",
+        "name": "agile-geoscience/freqbot",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/fuzzylas": {
+        "description": "Fuzzy search for well log curves and tools",
+        "name": "agile-geoscience/fuzzylas",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/g3": {
+        "description": "Geoscience plotting functions built on d3.js",
+        "name": "agile-geoscience/g3",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/geobinder": {
+        "description": "geocomputing binder",
+        "name": "agile-geoscience/geobinder",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/geocomp-1day": {
+        "description": "Geocomputing notebooks for 1 day course",
+        "name": "agile-geoscience/geocomp-1day",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/geocomp-public": {
+        "description": "Geocomputing class material",
+        "name": "agile-geoscience/geocomp-public",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/geotransect": {
+        "description": "Tool for summarizing data available along 2D transects.",
+        "name": "agile-geoscience/geotransect",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/geotrupes": {
+        "description": "Fetch subsurface data from Data Underground",
+        "name": "agile-geoscience/geotrupes",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/gio": {
+        "description": "Geoscience I/O",
+        "name": "agile-geoscience/gio",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/groningen": {
+        "description": "Reading the Groningen data",
+        "name": "agile-geoscience/groningen",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/guwi": {
+        "description": "A microservice that guesses the UWI based on the FPS.",
+        "name": "agile-geoscience/guwi",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/in-bruges": {
+        "description": "A walking tour of bruges",
+        "name": "agile-geoscience/in-bruges",
+        "topics": [
+            "geophysics",
+            "seismology"
+        ],
+        "website": null
+    },
+    "agile-geoscience/jeepr": {
+        "description": "GPR utilities",
+        "name": "agile-geoscience/jeepr",
+        "topics": [
+            "ground-penetrating-radar",
+            "geophysics",
+            "python"
+        ],
+        "website": null
+    },
+    "agile-geoscience/logio": {
+        "description": "Rescuing a DLIS reader",
+        "name": "agile-geoscience/logio",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/modelr": {
+        "description": "Google charts like API for Geoscience",
+        "name": "agile-geoscience/modelr",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/modelr-app": {
+        "description": "Modelr front end",
+        "name": "agile-geoscience/modelr-app",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/notebooks": {
+        "description": "IPython Notebooks",
+        "name": "agile-geoscience/notebooks",
+        "topics": [
+            "notebooks",
+            "geophysics",
+            "geoscience"
+        ],
+        "website": null
+    },
+    "agile-geoscience/patrol": {
+        "description": "A web app for monitoring new pages in a wiki",
+        "name": "agile-geoscience/patrol",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/pickthat": {
+        "description": "Toolkit for the Pick This web API",
+        "name": "agile-geoscience/pickthat",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/ptMigrate": {
+        "description": null,
+        "name": "agile-geoscience/ptMigrate",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/recipes": {
+        "description": "Well data recipes",
+        "name": "agile-geoscience/recipes",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/rocky-playground": {
+        "description": "An adaptation of the TensorFlow Playground, with some new datasets and activation functions.",
+        "name": "agile-geoscience/rocky-playground",
+        "topics": [
+            "machine-learning",
+            "teaching-tool",
+            "geoscience",
+            "neural-networks"
+        ],
+        "website": "https://playground.geosci.ai/"
+    },
+    "agile-geoscience/seismobit": {
+        "description": "A real-time seismograph animation using a micro:bit",
+        "name": "agile-geoscience/seismobit",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/seisplot": {
+        "description": "Plots seismic, sorta",
+        "name": "agile-geoscience/seisplot",
+        "topics": [
+            "seismic",
+            "geophysics",
+            "plotting",
+            "silly"
+        ],
+        "website": null
+    },
+    "agile-geoscience/striplog": {
+        "description": "Lithology and stratigraphic logs for wells or outcrop. ",
+        "name": "agile-geoscience/striplog",
+        "topics": [
+            "geology",
+            "data-mining"
+        ],
+        "website": ""
+    },
+    "agile-geoscience/transform-2020-tutorial": {
+        "description": "Tutorial stuff for TRANSFORM 2020",
+        "name": "agile-geoscience/transform-2020-tutorial",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/visualizr": {
+        "description": "Demo app for g3.js",
+        "name": "agile-geoscience/visualizr",
+        "topics": null,
+        "website": null
+    },
+    "agile-geoscience/welly": {
+        "description": "Well handling",
+        "name": "agile-geoscience/welly",
+        "topics": [
+            "geology",
+            "petroleum",
+            "geophysics",
+            "data-management",
+            "data-mining",
+            "petrophysics",
+            "python"
+        ],
+        "website": null
+    },
+    "agile-geoscience/xlines": {
+        "description": "X lines of Python",
+        "name": "agile-geoscience/xlines",
+        "topics": [
+            "education",
+            "tutorial",
+            "geophysics",
+            "geoscience",
+            "geology",
+            "notebooks",
+            "python"
+        ],
+        "website": null
+    },
+    "ahotovec/REDPy": {
+        "description": "Repeating Earthquake Detector (Python)",
+        "name": "ahotovec/REDPy",
+        "topics": [
+            "python",
+            "repeating-earthquakes",
+            "volcanology",
+            "seismology"
+        ],
+        "website": ""
+    },
+    "btobers/RAGU": {
+        "description": "Radar Analysis Graphical Utility (RAGU)",
+        "name": "btobers/RAGU",
+        "topics": null,
+        "website": ""
+    },
+    "capaulson/pyKriging": {
+        "description": "Welcome to the User Friendly Python Kriging Toolbox!",
+        "name": "capaulson/pyKriging",
+        "topics": null,
+        "website": "http://www.pykriging.com"
+    },
+    "cgre-aachen/Bayesian-Inference-Cases": {
+        "description": "A bunch of models tested with difference Bayesian Inference methods",
+        "name": "cgre-aachen/Bayesian-Inference-Cases",
+        "topics": null,
+        "website": ""
+    },
+    "cgre-aachen/DwarfElephant": {
+        "description": "Implementation of the Reduced Basis Method",
+        "name": "cgre-aachen/DwarfElephant",
+        "topics": null,
+        "website": ""
+    },
+    "cgre-aachen/FastElephant": {
+        "description": "Coupling and processing options for DwarfElephant",
+        "name": "cgre-aachen/FastElephant",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/InformedLocalSmoothing": {
+        "description": null,
+        "name": "cgre-aachen/InformedLocalSmoothing",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/MSc_theses": {
+        "description": "Code related to MSc thesis projects",
+        "name": "cgre-aachen/MSc_theses",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/RestClient": {
+        "description": "\ud83e\udd84 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! \ud83c\udfae",
+        "name": "cgre-aachen/RestClient",
+        "topics": null,
+        "website": "https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501"
+    },
+    "cgre-aachen/VRTK": {
+        "description": "A productive toolkit for rapidly building spatial computing solutions in the Unity software.",
+        "name": "cgre-aachen/VRTK",
+        "topics": null,
+        "website": "https://www.vrtk.io/"
+    },
+    "cgre-aachen/bayseg": {
+        "description": "An unsupervised machine learning algorithm for the segmentation of spatial data sets.",
+        "name": "cgre-aachen/bayseg",
+        "topics": [
+            "segmentation",
+            "python3",
+            "hidden-markov-models",
+            "bayesian-methods",
+            "gaussian-mixture-models",
+            "gibbs-energy",
+            "gibbs-sampling",
+            "markov-chain",
+            "machine-learning",
+            "mixture-model",
+            "geophysics"
+        ],
+        "website": ""
+    },
+    "cgre-aachen/course_infotheory_spatial": {
+        "description": "Course on information theory with special focus on spatial analyses and multivariate measures",
+        "name": "cgre-aachen/course_infotheory_spatial",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gemgis": {
+        "description": "Spatial data processing for geomodeling",
+        "name": "cgre-aachen/gemgis",
+        "topics": [
+            "spatial-data",
+            "processing",
+            "geographic",
+            "geographic-data",
+            "vector-data",
+            "raster-data",
+            "geomodeling",
+            "modeling",
+            "visualization",
+            "python",
+            "jupyter",
+            "jupyter-notebook",
+            "notebooks",
+            "geospatial"
+        ],
+        "website": "https://gemgis.readthedocs.io/en/latest"
+    },
+    "cgre-aachen/gemgis_data": {
+        "description": "This repository contains the data used in GemGIS",
+        "name": "cgre-aachen/gemgis_data",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gemplay": {
+        "description": "A multi-platform and multi-application Unity project for visualizing and interacting with geological models and data",
+        "name": "cgre-aachen/gemplay",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy": {
+        "description": "GemPy is an open-source, Python-based 3-D structural geological modeling software, which allows the implicit (i.e. automatic) creation of complex geological models from interface and orientation data. It also offers support for stochastic modeling to adress parameter and model uncertainties.",
+        "name": "cgre-aachen/gempy",
+        "topics": [
+            "uq",
+            "bayesian",
+            "interpolation",
+            "geology",
+            "modeling",
+            "python",
+            "uncertainty-analysis",
+            "theano",
+            "uncertainties",
+            "complex-geological-models",
+            "monte-carlo-simulation",
+            "implicit",
+            "geological",
+            "geoscience"
+        ],
+        "website": "https://gempy.org"
+    },
+    "cgre-aachen/gempy-canvas": {
+        "description": "Proof of concept for a single page application running on top of gempy.",
+        "name": "cgre-aachen/gempy-canvas",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy.github.io": {
+        "description": null,
+        "name": "cgre-aachen/gempy.github.io",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy_data": {
+        "description": "Input data for gempy examples",
+        "name": "cgre-aachen/gempy_data",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy_workshops": {
+        "description": null,
+        "name": "cgre-aachen/gempy_workshops",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/hspace": {
+        "description": null,
+        "name": "cgre-aachen/hspace",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/ki-campus": {
+        "description": "Some notebooks etc for ki-campus",
+        "name": "cgre-aachen/ki-campus",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/loss_function_decision_making_paper": {
+        "description": null,
+        "name": "cgre-aachen/loss_function_decision_making_paper",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/open_AR_Sandbox": {
+        "description": "open-AR-Sandbox is a project to enable haptic interaction with geoscientific content in AR-Sandboxes.",
+        "name": "cgre-aachen/open_AR_Sandbox",
+        "topics": null,
+        "website": ""
+    },
+    "cgre-aachen/pynoddy": {
+        "description": "pynoddy is a python package to write, change, and analyse kinematic geological modelling simulations performed with Noddy.",
+        "name": "cgre-aachen/pynoddy",
+        "topics": [
+            "noddy",
+            "python",
+            "geological-modeling",
+            "geology",
+            "kinematic-modeling"
+        ],
+        "website": null
+    },
+    "cgre-aachen/pynoddy_old": {
+        "description": null,
+        "name": "cgre-aachen/pynoddy_old",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/remote-geomod": {
+        "description": "Coupling remote geological mapping in Google Earth with direct 3D geological modeling in GemPy.",
+        "name": "cgre-aachen/remote-geomod",
+        "topics": [
+            "geology",
+            "mapping",
+            "3d-modelling",
+            "google-earth"
+        ],
+        "website": ""
+    },
+    "cgre-aachen/teaching": {
+        "description": "Material related to teaching of own courses",
+        "name": "cgre-aachen/teaching",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-geomodeling": {
+        "description": "content for geomodeling class",
+        "name": "cgre-aachen/teaching-geomodeling",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-git": {
+        "description": "A simple repository to try working with git",
+        "name": "cgre-aachen/teaching-git",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-multivariate-stats": {
+        "description": "Material for multivariate statistics class",
+        "name": "cgre-aachen/teaching-multivariate-stats",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-quantitative-methods": {
+        "description": "Teaching material for class \"quantitative methods in geosciences\"",
+        "name": "cgre-aachen/teaching-quantitative-methods",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-research-module": {
+        "description": "Test repository for git experiments",
+        "name": "cgre-aachen/teaching-research-module",
+        "topics": null,
+        "website": null
+    },
+    "csdms/bmi": {
+        "description": "The Basic Model Interface",
+        "name": "csdms/bmi",
+        "topics": [
+            "bmi",
+            "csdms",
+            "geosciences",
+            "c",
+            "fortran",
+            "python",
+            "cxx"
+        ],
+        "website": "https://bmi.readthedocs.io"
+    },
+    "csdms/pymt": {
+        "description": "A Python toolkit for running and coupling Earth surface models",
+        "name": "csdms/pymt",
+        "topics": null,
+        "website": ""
+    },
+    "davenquinn/geologic-patterns": {
+        "description": "FGDC geologic map patterns for the web",
+        "name": "davenquinn/geologic-patterns",
+        "topics": null,
+        "website": "http://davenquinn.com/projects/geologic-patterns"
+    },
+    "driftingtides/hyvr": {
+        "description": "A package for simulating hydrogeological virtual realities.",
+        "name": "driftingtides/hyvr",
+        "topics": null,
+        "website": null
+    },
+    "emanuelhuber/RGPR": {
+        "description": "Ground-penetrating radar (GPR) data processing and visualisation: a free and open-source software package (R language)",
+        "name": "emanuelhuber/RGPR",
+        "topics": [
+            "gpr",
+            "r",
+            "ground-penetrating-radar",
+            "geophysics",
+            "signal-processing",
+            "gpr-data",
+            "software",
+            "package",
+            "processing",
+            "signal",
+            "process",
+            "open-source",
+            "dsp"
+        ],
+        "website": "http://emanuelhuber.github.io/RGPR/"
+    },
+    "emsig/empymod": {
+        "description": "Full 3D electromagnetic modeller for 1D VTI media",
+        "name": "emsig/empymod",
+        "topics": [
+            "electromagnetic",
+            "csem",
+            "gpr",
+            "modelling",
+            "geophysics",
+            "python",
+            "empymod"
+        ],
+        "website": "https://empymod.emsig.xyz"
+    },
+    "equinor/dlisio": {
+        "description": "Python library for working with the well log formats Digital Log Interchange Standard (DLIS V1) and Log Information Standard (LIS79)",
+        "name": "equinor/dlisio",
+        "topics": [
+            "dlis",
+            "rp66v1",
+            "lis",
+            "lis79"
+        ],
+        "website": "https://dlisio.readthedocs.io/en/latest/"
+    },
+    "equinor/ecl": {
+        "description": "Software for reading and writing the result files from the Eclipse reservoir simulator.",
+        "name": "equinor/ecl",
+        "topics": [
+            "reservoir",
+            "python",
+            "c",
+            "opm",
+            "eclipse",
+            "hacktoberfest"
+        ],
+        "website": ""
+    },
+    "equinor/libres": {
+        "description": null,
+        "name": "equinor/libres",
+        "topics": [
+            "hacktoberfest"
+        ],
+        "website": ""
+    },
+    "equinor/pyvds": {
+        "description": "Read VDS files with segyio-like syntax",
+        "name": "equinor/pyvds",
+        "topics": null,
+        "website": null
+    },
+    "equinor/pyzgy": {
+        "description": "Read Schlumberger's ZGY format with syntax familiar to users of segyio",
+        "name": "equinor/pyzgy",
+        "topics": null,
+        "website": null
+    },
+    "equinor/segyio": {
+        "description": "Fast Python library for SEGY files.",
+        "name": "equinor/segyio",
+        "topics": [
+            "segy",
+            "python",
+            "c",
+            "matlab",
+            "fast",
+            "seismic",
+            "hacktoberfest"
+        ],
+        "website": ""
+    },
+    "equinor/seismic-zfp": {
+        "description": "Compress and decompress seismic data",
+        "name": "equinor/seismic-zfp",
+        "topics": null,
+        "website": null
+    },
+    "equinor/webviz": {
+        "description": "THIS REPO IS NOT MAINTAINED ANYMORE. Go to https://github.com/equinor/webviz-config for the new repo.",
+        "name": "equinor/webviz",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/.github": {
+        "description": "Templates for Issues and Pull Requests shared between our projects",
+        "name": "fatiando/.github",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/2021-gsh": {
+        "description": "Talk about Fatiando for the Geophysical Society of Houston",
+        "name": "fatiando/2021-gsh",
+        "topics": null,
+        "website": "https://www.fatiando.org/2021-gsh/"
+    },
+    "fatiando/agu2021": {
+        "description": "Invited presentation about Fatiando at AGU2021",
+        "name": "fatiando/agu2021",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/boule": {
+        "description": "Reference ellipsoids for geodesy and geophysics",
+        "name": "fatiando/boule",
+        "topics": [
+            "geophysics",
+            "geodesy",
+            "earth-science",
+            "gravity",
+            "gravimetry",
+            "ellipsoid",
+            "python",
+            "fatiando-a-terra",
+            "coordinates",
+            "geoscience"
+        ],
+        "website": "https://www.fatiando.org/boule"
+    },
+    "fatiando/community": {
+        "description": "Community resources, guidelines, meeting notes, authorship policy, maintenance, etc.",
+        "name": "fatiando/community",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/continuous-integration": {
+        "description": "THIS REPOSITORY IS READ-ONLY and is no longer actively maintained. We have since moved to GitHub Actions, which makes most of these scripts redundant.",
+        "name": "fatiando/continuous-integration",
+        "topics": [
+            "travis",
+            "ci-configuration",
+            "miniconda",
+            "azure"
+        ],
+        "website": ""
+    },
+    "fatiando/deeplook": {
+        "description": "A framework for solving inverse problems",
+        "name": "fatiando/deeplook",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/dev": {
+        "description": "Hosts the development build of the documentation. DO NOT EDIT DIRECTLY. Commits are pushed by TravisCI from the fatiando/fatiando repository.",
+        "name": "fatiando/dev",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/egu2021": {
+        "description": "Presentation submited to EGU2021 about Boule and Harmonica",
+        "name": "fatiando/egu2021",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/erizo": {
+        "description": "Elastic multi-component interpolation of GPS/GNSS ground displacement.",
+        "name": "fatiando/erizo",
+        "topics": [
+            "geophysics",
+            "geodesy",
+            "gps",
+            "gnss",
+            "earth-science",
+            "python",
+            "fatiando-a-terra"
+        ],
+        "website": "https://www.fatiando.org/erizo"
+    },
+    "fatiando/fatiando": {
+        "description": "DEPRECATED in favor of our newer libraries (see www.fatiando.org). Python toolkit for modeling and inversion in geophysics. ",
+        "name": "fatiando/fatiando",
+        "topics": [
+            "python",
+            "geophysics",
+            "earth-science",
+            "gravity",
+            "seismology",
+            "seismic",
+            "inverse-problems",
+            "scipy",
+            "geoscience"
+        ],
+        "website": ""
+    },
+    "fatiando/fatiando.github.io": {
+        "description": "HTML sources for fatiando.org. DON'T MAKE PULL REQUESTS HERE. Files are updated manually when a new release is made.",
+        "name": "fatiando/fatiando.github.io",
+        "topics": null,
+        "website": "https://www.fatiando.org"
+    },
+    "fatiando/geometric": {
+        "description": "Case study for stripping out fatiando.mesher into a new package",
+        "name": "fatiando/geometric",
+        "topics": [
+            "fatiando-a-terra",
+            "geophysics",
+            "earth-science"
+        ],
+        "website": null
+    },
+    "fatiando/harmonica": {
+        "description": "Forward modeling, inversion, and processing gravity and magnetic data",
+        "name": "fatiando/harmonica",
+        "topics": [
+            "geophysics",
+            "earth-science",
+            "python",
+            "scipy",
+            "fatiando-a-terra",
+            "gravity",
+            "magnetic-fields",
+            "inverse-problems",
+            "geoscience"
+        ],
+        "website": "https://www.fatiando.org/harmonica"
+    },
+    "fatiando/legacy-docs": {
+        "description": "Serves the documentation for the last release of the \"fatiando\" library.",
+        "name": "fatiando/legacy-docs",
+        "topics": null,
+        "website": "https://legacy.fatiando.org/"
+    },
+    "fatiando/logo": {
+        "description": "Source files for the Fatiando a Terra logos",
+        "name": "fatiando/logo",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/maintenance": {
+        "description": "NOTICE: This repository is archived. Content and functionality has been moved to https://github.com/fatiando/community",
+        "name": "fatiando/maintenance",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/meeting-notes": {
+        "description": "NOTICE: This repository is archived. Content and functionality has been moved to https://github.com/fatiando/community",
+        "name": "fatiando/meeting-notes",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/moulder": {
+        "description": "Interactive 2D gravity forward modeling.",
+        "name": "fatiando/moulder",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/package-template": {
+        "description": "A cookiecutter template for creating new Fatiando packages",
+        "name": "fatiando/package-template",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/pooch": {
+        "description": "A friend to fetch your data files",
+        "name": "fatiando/pooch",
+        "topics": [
+            "python",
+            "python3",
+            "scipy",
+            "scipy-stack",
+            "fatiando-a-terra",
+            "data",
+            "http",
+            "ftp",
+            "download-manager"
+        ],
+        "website": "https://www.fatiando.org/pooch"
+    },
+    "fatiando/prototypes": {
+        "description": "DEPRECATED: IPython notebooks with early prototypes of various things",
+        "name": "fatiando/prototypes",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/rockhound": {
+        "description": "Download geophysical models/datasets and load them in Python",
+        "name": "fatiando/rockhound",
+        "topics": [
+            "geophysics",
+            "earth-science",
+            "geoscience",
+            "data",
+            "python",
+            "python3",
+            "fatiando-a-terra"
+        ],
+        "website": "https://www.fatiando.org/rockhound"
+    },
+    "fatiando/rockhound-data": {
+        "description": "A place to format and curate sample data for documentation and tutorials",
+        "name": "fatiando/rockhound-data",
+        "topics": [
+            "earth-science",
+            "data"
+        ],
+        "website": ""
+    },
+    "fatiando/sticker": {
+        "description": "Source files for Fatiando a Terra stickers",
+        "name": "fatiando/sticker",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/transform2020": {
+        "description": "Material for the Verde tutorial at Transform 2020",
+        "name": "fatiando/transform2020",
+        "topics": [
+            "geoscience",
+            "geophysics",
+            "fatiando-a-terra",
+            "earth-science",
+            "python",
+            "geospatial",
+            "swung-t20"
+        ],
+        "website": "https://transform2020.sched.com/event/c7KE/tutorial-from-scattered-data-to-gridded-products-using-verde"
+    },
+    "fatiando/transform2020-lightning": {
+        "description": "Notebooks and slides shown on TRANSFORM2020 lightning talks",
+        "name": "fatiando/transform2020-lightning",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/transform21": {
+        "description": "Material for the Harmonica tutorial at Transform21",
+        "name": "fatiando/transform21",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/tutorials": {
+        "description": "DEPRECATED: Tutorials for Fatiando a Terra in IPython notebooks",
+        "name": "fatiando/tutorials",
+        "topics": null,
+        "website": "http://nbviewer.ipython.org/github/fatiando/tutorials/tree/master/"
+    },
+    "fatiando/v0.1": {
+        "description": "Documentation for v0.1 built using sphinx. Hosts the generated HTML files.",
+        "name": "fatiando/v0.1",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/v0.2": {
+        "description": "Documentation for v0.2 built using sphinx. Hosts the generated HTML files.",
+        "name": "fatiando/v0.2",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/v0.3": {
+        "description": "Documentation for v0.3 built using sphinx. Hosts the generated HTML files.",
+        "name": "fatiando/v0.3",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/v0.4": {
+        "description": "Documentation for v0.4 built using sphinx. Hosts the generated HTML files.",
+        "name": "fatiando/v0.4",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/verde": {
+        "description": "Processing and interpolating spatial data with a twist of machine learning",
+        "name": "fatiando/verde",
+        "topics": [
+            "geophysics",
+            "earth-science",
+            "geospatial",
+            "python",
+            "scipy",
+            "interpolation",
+            "python3",
+            "scipy-stack",
+            "fatiando-a-terra",
+            "geoscience"
+        ],
+        "website": "https://www.fatiando.org/verde"
+    },
+    "fatiando/wavefd": {
+        "description": "2D finite difference seismic wave propagation",
+        "name": "fatiando/wavefd",
+        "topics": null,
+        "website": null
+    },
+    "fatiando/website": {
+        "description": "Sphinx sources used to generate the www.fatiando.org page",
+        "name": "fatiando/website",
+        "topics": null,
+        "website": ""
+    },
+    "fatiando/website-nikola": {
+        "description": "DEPRECATED: Old source code to generate fatiando.org using Nikola. Repo still used to link to the PDFs stored here.",
+        "name": "fatiando/website-nikola",
+        "topics": null,
+        "website": ""
+    },
+    "groupeLIAMG/bh_tomo": {
+        "description": "A Matlab borehole radar/seismic tomography package",
+        "name": "groupeLIAMG/bh_tomo",
+        "topics": [
+            "geophysics",
+            "tomography",
+            "borehole",
+            "traveltime"
+        ],
+        "website": ""
+    },
+    "holoviz/colorcet": {
+        "description": "A set of useful perceptually uniform colormaps for plotting scientific data",
+        "name": "holoviz/colorcet",
+        "topics": [
+            "holoviz",
+            "colorcet",
+            "colormaps",
+            "matplotlib",
+            "bokeh",
+            "plotly"
+        ],
+        "website": "http://colorcet.holoviz.org"
+    },
+    "hpgl/hpgl": {
+        "description": "High Perfomance Geostatistics Library",
+        "name": "hpgl/hpgl",
+        "topics": null,
+        "website": "http://hpgl.github.io/hpgl/"
+    },
+    "iannesbitt/readgssi": {
+        "description": "python tool to read and plot Geophysical Survey Systems Incorporated (GSSI) radar data",
+        "name": "iannesbitt/readgssi",
+        "topics": [
+            "gssi",
+            "dzt",
+            "georadar",
+            "gpr",
+            "hdf5",
+            "python2",
+            "python3",
+            "plot",
+            "ground-penetrating-radar"
+        ],
+        "website": "https://readgssi.readthedocs.io/"
+    },
+    "joferkington/mplstereonet": {
+        "description": "Stereonets for matplotlib",
+        "name": "joferkington/mplstereonet",
+        "topics": null,
+        "website": ""
+    },
+    "keurfonluu/disba": {
+        "description": "Numba-accelerated computation of surface wave dispersion",
+        "name": "keurfonluu/disba",
+        "topics": [
+            "surf96",
+            "python",
+            "surface-wave",
+            "geosciences",
+            "seismology",
+            "dispersion"
+        ],
+        "website": "https://github.com/keurfonluu/disba"
+    },
+    "kinverarity1/aseg_gdf2": {
+        "description": "Python code to help read ASEG GDF2 packages",
+        "name": "kinverarity1/aseg_gdf2",
+        "topics": [
+            "geophysics",
+            "file-formats",
+            "python"
+        ],
+        "website": null
+    },
+    "kinverarity1/lasio": {
+        "description": "Python library for reading and writing well data using Log ASCII Standard (LAS) files",
+        "name": "kinverarity1/lasio",
+        "topics": [
+            "las-files",
+            "geophysics",
+            "geology",
+            "data-format",
+            "io",
+            "petroleum",
+            "geotechnical-engineering",
+            "groundwater",
+            "data-management",
+            "data-mining",
+            "mineral-exploration",
+            "log-ascii-standard",
+            "python",
+            "swung-t21",
+            "lasio"
+        ],
+        "website": ""
+    },
+    "kinverarity1/mtwaffle": {
+        "description": "utility functions for analysis of magnetotelluric data",
+        "name": "kinverarity1/mtwaffle",
+        "topics": null,
+        "website": ""
+    },
+    "landlab/CUAHSI_Biennial_July_2016": {
+        "description": "This repository host hands-on tutorials that will be used by the participants of Landlab workshop.",
+        "name": "landlab/CUAHSI_Biennial_July_2016",
+        "topics": null,
+        "website": null
+    },
+    "landlab/General-Landlab-Clinic-2020-21": {
+        "description": null,
+        "name": "landlab/General-Landlab-Clinic-2020-21",
+        "topics": null,
+        "website": null
+    },
+    "landlab/UT_Landlab_Clinic": {
+        "description": null,
+        "name": "landlab/UT_Landlab_Clinic",
+        "topics": null,
+        "website": null
+    },
+    "landlab/conda": {
+        "description": "Conda recipe for landlab.",
+        "name": "landlab/conda",
+        "topics": null,
+        "website": null
+    },
+    "landlab/csdms_meeting_may_2015": {
+        "description": "Slides, examples, and exercises from Landlab clinic at May 2015 CSDMS Meeting",
+        "name": "landlab/csdms_meeting_may_2015",
+        "topics": null,
+        "website": null
+    },
+    "landlab/csdms_model_clinic_may_2017": {
+        "description": "All of the materials presented at the CSDMS 2017 model clinic",
+        "name": "landlab/csdms_model_clinic_may_2017",
+        "topics": null,
+        "website": null
+    },
+    "landlab/drivers": {
+        "description": "Example drivers for Landlab",
+        "name": "landlab/drivers",
+        "topics": null,
+        "website": null
+    },
+    "landlab/flexure-component": {
+        "description": "Landlab flexure component",
+        "name": "landlab/flexure-component",
+        "topics": null,
+        "website": null
+    },
+    "landlab/governance_discussion": {
+        "description": null,
+        "name": "landlab/governance_discussion",
+        "topics": null,
+        "website": null
+    },
+    "landlab/grid-sketchbook": {
+        "description": null,
+        "name": "landlab/grid-sketchbook",
+        "topics": null,
+        "website": null
+    },
+    "landlab/landlab": {
+        "description": "Landlab codebase, wiki, and tests",
+        "name": "landlab/landlab",
+        "topics": null,
+        "website": "https://landlab.readthedocs.io/"
+    },
+    "landlab/landlab-logo": {
+        "description": "Image files for the landlab logo",
+        "name": "landlab/landlab-logo",
+        "topics": null,
+        "website": null
+    },
+    "landlab/landlab-rest": {
+        "description": "A RESTful interface to landlab graphs.",
+        "name": "landlab/landlab-rest",
+        "topics": null,
+        "website": null
+    },
+    "landlab/landlab.github.io": {
+        "description": "Landlab website",
+        "name": "landlab/landlab.github.io",
+        "topics": null,
+        "website": "http://landlab.github.io"
+    },
+    "landlab/landlab_teaching_tools": {
+        "description": "Codes for use in undergraduate and graduate courses",
+        "name": "landlab/landlab_teaching_tools",
+        "topics": null,
+        "website": null
+    },
+    "landlab/landscape_metrics_course": {
+        "description": null,
+        "name": "landlab/landscape_metrics_course",
+        "topics": null,
+        "website": null
+    },
+    "landlab/nced_summer_instititute_2018": {
+        "description": "Materials presented in the NCED 2018 Summer Institute",
+        "name": "landlab/nced_summer_instititute_2018",
+        "topics": null,
+        "website": null
+    },
+    "landlab/psu-clinic-2020": {
+        "description": "A Landlab clinic at Penn State, 2020 January 22",
+        "name": "landlab/psu-clinic-2020",
+        "topics": null,
+        "website": null
+    },
+    "landlab/pub_adams_etal_gmd": {
+        "description": null,
+        "name": "landlab/pub_adams_etal_gmd",
+        "topics": null,
+        "website": null
+    },
+    "landlab/pub_adams_etal_rainfallvar_jgr": {
+        "description": "This contains files used in the Adams et al., rainfall variability paper, planned for submission to JGR. These codes contain the raw data used in the analysis, as well as the codes that can generate model data or figures.",
+        "name": "landlab/pub_adams_etal_rainfallvar_jgr",
+        "topics": null,
+        "website": ""
+    },
+    "landlab/pub_nudurupati_etal_wrr": {
+        "description": "Files used for the Landlab ecohydrology paper.",
+        "name": "landlab/pub_nudurupati_etal_wrr",
+        "topics": null,
+        "website": null
+    },
+    "landlab/pub_tucker_etal_gmd": {
+        "description": null,
+        "name": "landlab/pub_tucker_etal_gmd",
+        "topics": [
+            "landlab",
+            "celllab-cts",
+            "cellular-automata",
+            "cellular-automaton",
+            "geomorphology",
+            "csdms"
+        ],
+        "website": null
+    },
+    "landlab/tutorials": {
+        "description": "Landlab tutorials",
+        "name": "landlab/tutorials",
+        "topics": null,
+        "website": null
+    },
+    "mlbelobraydi/t21-hack-SwellCorr": {
+        "description": "Starting repository for the Transform 2021 Hack-a-Thon Well Correlation project",
+        "name": "mlbelobraydi/t21-hack-SwellCorr",
+        "topics": [
+            "dataunderground",
+            "swung-t21"
+        ],
+        "website": ""
+    },
+    "morganjwilliams/pyrolite": {
+        "description": "A set of tools for getting the most from your geochemical data.",
+        "name": "morganjwilliams/pyrolite",
+        "topics": [
+            "geochemistry",
+            "data-science",
+            "chemistry",
+            "geoscience",
+            "pyrolite",
+            "ternary-diagrams",
+            "csiro",
+            "geochemical-data"
+        ],
+        "website": "https://pyrolite.readthedocs.io"
+    },
+    "obspy/obspy": {
+        "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.",
+        "name": "obspy/obspy",
+        "topics": [
+            "seismology",
+            "python",
+            "observatories",
+            "science",
+            "earthquakes",
+            "data-center",
+            "waveforms",
+            "signal-processing",
+            "web-services",
+            "lgplv3",
+            "hacktoberfest"
+        ],
+        "website": "https://www.obspy.org"
+    },
+    "ondrolexa/apsg": {
+        "description": "Structural geology package for Python",
+        "name": "ondrolexa/apsg",
+        "topics": [
+            "python",
+            "structural-geology"
+        ],
+        "website": ""
+    },
+    "opengeostat/pygslib": {
+        "description": "GSLIB fortran code wrapped into python",
+        "name": "opengeostat/pygslib",
+        "topics": null,
+        "website": null
+    },
+    "pemn/vtk_triangulate_points": {
+        "description": "Creates simplified surfaces from dense point clouds",
+        "name": "pemn/vtk_triangulate_points",
+        "topics": [
+            "mining",
+            "3d",
+            "delaunay"
+        ],
+        "website": ""
+    },
+    "pyrocko/pyrocko": {
+        "description": "An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python.",
+        "name": "pyrocko/pyrocko",
+        "topics": [
+            "python",
+            "seismology",
+            "earthquake",
+            "geophysical-inversions",
+            "geophysics"
+        ],
+        "website": "https://pyrocko.org"
+    },
+    "pyvista/pyvista": {
+        "description": "3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)",
+        "name": "pyvista/pyvista",
+        "topics": [
+            "vtk",
+            "open-science",
+            "python",
+            "visualization",
+            "3d",
+            "meshviewer",
+            "scientific-visualization",
+            "scientific-research",
+            "plotting",
+            "mesh",
+            "mesh-processing",
+            "hacktoberfest"
+        ],
+        "website": "https://docs.pyvista.org/"
+    },
+    "r-spatial/gstat": {
+        "description": "Spatial and spatio-temporal geostatistical modelling, prediction and simulation",
+        "name": "r-spatial/gstat",
+        "topics": null,
+        "website": "http://r-spatial.github.io/gstat/"
+    },
+    "raspishake/rsudp": {
+        "description": "Continuous visual display, sudden motion monitoring, and historical replay of Raspberry Shake data",
+        "name": "raspishake/rsudp",
+        "topics": null,
+        "website": "https://raspishake.github.io/rsudp/"
+    },
+    "robinthibaut/pysgems": {
+        "description": "Use SGeMS (Stanford Geostatistical Modeling Software) within Python.",
+        "name": "robinthibaut/pysgems",
+        "topics": [
+            "geostatistics",
+            "sgems"
+        ],
+        "website": ""
+    },
+    "simpeg/simpeg": {
+        "description": "Simulation and Parameter Estimation in Geophysics  -  A python package for simulation and gradient based parameter estimation in the context of geophysical applications.",
+        "name": "simpeg/simpeg",
+        "topics": [
+            "python",
+            "finite-volume",
+            "geophysics",
+            "inversion",
+            "linear-algebra",
+            "partial-differential-equations",
+            "optimization",
+            "geoscience",
+            "modelling",
+            "simulation",
+            "electromagnetics",
+            "magnetotellurics",
+            "direct-current-resistivity",
+            "induced-polarization",
+            "richards-equation",
+            "open-science",
+            "modeling",
+            "scientific-computing",
+            "inverse-problems",
+            "multiphysics"
+        ],
+        "website": "http://simpeg.xyz"
+    },
+    "sinanozaydin/MATE": {
+        "description": "A software developed in python3 to make interpretations of magnetotelluric models of the mantle.",
+        "name": "sinanozaydin/MATE",
+        "topics": [
+            "geophysics",
+            "magnetotellurics",
+            "petrology",
+            "geology"
+        ],
+        "website": ""
+    },
+    "softwareunderground/52things": {
+        "description": "52 Things You Should Know About Geocomputing",
+        "name": "softwareunderground/52things",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/TeapotDome": {
+        "description": "Using dev tools for geophysics",
+        "name": "softwareunderground/TeapotDome",
+        "topics": null,
+        "website": ""
+    },
+    "softwareunderground/awesome-open-geoscience": {
+        "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
+        "name": "softwareunderground/awesome-open-geoscience",
+        "topics": [
+            "awesome-list",
+            "geoscience",
+            "open-source",
+            "open-data",
+            "awesome",
+            "geophysics",
+            "reservoir-modeling",
+            "seismic",
+            "geospatial",
+            "subsurface",
+            "geology",
+            "open-science",
+            "python",
+            "cheatsheet",
+            "geosciences",
+            "geostatistics",
+            "simulation",
+            "geochemistry",
+            "groundwater",
+            "modflow"
+        ],
+        "website": ""
+    },
+    "softwareunderground/badges": {
+        "description": "badges for swung repos, software and research projects",
+        "name": "softwareunderground/badges",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/brand": {
+        "description": "Logos, posters, and other unmarketing material",
+        "name": "softwareunderground/brand",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/careermap": {
+        "description": "A small app to map career paths",
+        "name": "softwareunderground/careermap",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/cloud": {
+        "description": "Software underground cloud stuff",
+        "name": "softwareunderground/cloud",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/code-of-conduct": {
+        "description": "The S\\U Code of Conduct",
+        "name": "softwareunderground/code-of-conduct",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/cookbook": {
+        "description": "A cookbook of subsurface workflows",
+        "name": "softwareunderground/cookbook",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/data-underground": {
+        "description": "Things related to open data and dataunderground.org",
+        "name": "softwareunderground/data-underground",
+        "topics": [
+            "dataunderground"
+        ],
+        "website": ""
+    },
+    "softwareunderground/event-proposals": {
+        "description": "Descriptions of some events that might or should or will happen",
+        "name": "softwareunderground/event-proposals",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/fossilnet": {
+        "description": "The Fossil NET Image dataset, resources, tools and examples",
+        "name": "softwareunderground/fossilnet",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/geo-docker": {
+        "description": "A docker image fully loaded with Geo* & ML related packages",
+        "name": "softwareunderground/geo-docker",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/geotherm.ai": {
+        "description": "Web app with random hackathon stuff",
+        "name": "softwareunderground/geotherm.ai",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/geothermal-hack-2021": {
+        "description": "Repo for general stuff at the Geothermal Hackathon 2021",
+        "name": "softwareunderground/geothermal-hack-2021",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/getting-started": {
+        "description": "How to get started with Open Source contributions",
+        "name": "softwareunderground/getting-started",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/gostin": {
+        "description": "Geoscience Open Source Tie-In",
+        "name": "softwareunderground/gostin",
+        "topics": [
+            "swung-t20"
+        ],
+        "website": null
+    },
+    "softwareunderground/jupyterhub-deployment": {
+        "description": "Software Underground's JupyterHub deployment",
+        "name": "softwareunderground/jupyterhub-deployment",
+        "topics": null,
+        "website": "https://jupyter-dev.softwareunderground.org"
+    },
+    "softwareunderground/jupyterhub-terraform-modules": {
+        "description": "SwungHub (JupyterHub) Terraform modules",
+        "name": "softwareunderground/jupyterhub-terraform-modules",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/meetings-that-matter": {
+        "description": "A handbook for scientific events",
+        "name": "softwareunderground/meetings-that-matter",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/northern-lights": {
+        "description": "The CCS / Northern Lights hackathon project",
+        "name": "softwareunderground/northern-lights",
+        "topics": [
+            "swung-t21"
+        ],
+        "website": ""
+    },
+    "softwareunderground/notebooks": {
+        "description": "A collection of IPython notebooks showcasing a range of Earth Science applications",
+        "name": "softwareunderground/notebooks",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/open_geosciene_code_projects_viz": {
+        "description": "experimental visualization of Awesome List",
+        "name": "softwareunderground/open_geosciene_code_projects_viz",
+        "topics": [
+            "geology",
+            "geoscience",
+            "dataunderground",
+            "hackathon",
+            "transform",
+            "swung-t21"
+        ],
+        "website": "https://softwareunderground.github.io/open_geosciene_code_projects_viz/"
+    },
+    "softwareunderground/paris2017": {
+        "description": "Things to do with the Subsurface Hackathon",
+        "name": "softwareunderground/paris2017",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/repro-zoo": {
+        "description": "Continuing the Repro Zoo project",
+        "name": "softwareunderground/repro-zoo",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/stack-smoke-test": {
+        "description": null,
+        "name": "softwareunderground/stack-smoke-test",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/subsurface": {
+        "description": "Core data exchange library for subsurface science and engineering",
+        "name": "softwareunderground/subsurface",
+        "topics": [
+            "subsurface",
+            "geoscientific-data",
+            "subsurface-datahub",
+            "swung-t21",
+            "swung-t20",
+            "swung-t19"
+        ],
+        "website": "https://softwareunderground.github.io/subsurface"
+    },
+    "softwareunderground/subsurface-journal": {
+        "description": "Initial guidelines, ideas, suggestions, and more for a new open-access journal for peer-reviewed research pertaining to subsurface-related disciplines",
+        "name": "softwareunderground/subsurface-journal",
+        "topics": null,
+        "website": ""
+    },
+    "softwareunderground/subsurface-ml-docker": {
+        "description": "A fully loaded G&G/ML docker image. Get started quickly with the kitchen sink, customise later. (formerly geo-docker)",
+        "name": "softwareunderground/subsurface-ml-docker",
+        "topics": null,
+        "website": ""
+    },
+    "softwareunderground/swung-org": {
+        "description": "Software Underground document repository, minutes of meetings, etc.",
+        "name": "softwareunderground/swung-org",
+        "topics": null,
+        "website": ""
+    },
+    "softwareunderground/t21-hackathon": {
+        "description": "Transform 21 Hackathon",
+        "name": "softwareunderground/t21-hackathon",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/teaching": {
+        "description": "Stuff related to the #teacing channel",
+        "name": "softwareunderground/teaching",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/the-structure-does-what": {
+        "description": "The structure does WHAT!?",
+        "name": "softwareunderground/the-structure-does-what",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/transform-2021-hackathon": {
+        "description": "Transform 2021 Hackathon",
+        "name": "softwareunderground/transform-2021-hackathon",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/undersampledradio": {
+        "description": "Undersampled Radio nonsense",
+        "name": "softwareunderground/undersampledradio",
+        "topics": [
+            "radio"
+        ],
+        "website": null
+    },
+    "softwareunderground/website": {
+        "description": "Software Underground website built with Hugo",
+        "name": "softwareunderground/website",
+        "topics": null,
+        "website": "https://softwareunderground.github.io/website"
+    },
+    "softwareunderground/xsdf": {
+        "description": "X Seismic Data Format",
+        "name": "softwareunderground/xsdf",
+        "topics": null,
+        "website": ""
+    },
+    "toddheitmann/PetroPy": {
+        "description": "A petrophysics python package for geoscience python computing of conventional and unconventional formation evaluation. Reads las files and creates a pandas dataframe of the log data. Includes a basic petrophysical workflow and a simple log viewer based on XML templates.",
+        "name": "toddheitmann/PetroPy",
+        "topics": [
+            "petrophysics",
+            "reservoir-characterization",
+            "formation-evaluation",
+            "geoscience"
+        ],
+        "website": "https://toddheitmann.github.io/PetroPy/"
+    },
+    "trhallam/segysak": {
+        "description": "SEGY Swiss Army Knife for Seismic Data",
+        "name": "trhallam/segysak",
+        "topics": [
+            "swung-t20",
+            "segy",
+            "geophysics",
+            "seismic",
+            "swung-t21"
+        ],
+        "website": "https://segysak.readthedocs.io/en/latest/"
+    },
+    "waynegm/OpendTect": {
+        "description": "4cce3e7a",
+        "name": "waynegm/OpendTect",
+        "topics": null,
+        "website": ""
+    },
+    "waynegm/OpendTect-Plugins": {
+        "description": "Various plugins for the open source seismic interpretation system - OpendTect",
+        "name": "waynegm/OpendTect-Plugins",
+        "topics": [
+            "opendtect",
+            "seismic",
+            "geophysics",
+            "attributes"
+        ],
+        "website": ""
+    },
+    "whamlyn/auralib": {
+        "description": "Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.",
+        "name": "whamlyn/auralib",
+        "topics": null,
+        "website": null
+    }
+}

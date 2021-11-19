@@ -1,0 +1,10 @@
+_site
+Gemfile.lock
+*.pyc
+_explore/LAST_MASTER_UPDATE.log
+.DS_Store
+.vscode/
+.bundle
+venv
+env
+.venv

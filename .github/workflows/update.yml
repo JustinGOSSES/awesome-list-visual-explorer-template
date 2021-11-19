@@ -1,0 +1,116 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Python application
+on: workflow_dispatch
+jobs:
+#   wget:
+#       runs-on: ubuntu-latest
+#       steps:
+#       - name: wget
+#         uses: wei/wget@v1
+#         with:
+#           args: https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/main/README.md -O assets/README.md
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+      with:
+        token: '${{ secrets.GITHUB_TOKEN }}'
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        echo printing this test at top of Install Dependencies set in GitHub Actions
+        python -m pip install --upgrade pip
+        pip install flake8 pytest virtualenv
+        cd _explore/scripts/
+        virtualenv -p python3 venv
+        source venv/bin/activate
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; 
+        cd ../../
+        fi
+    - name: Run grabNewRepos Script
+      run: |
+        cd _explore/scripts/
+        if [ -f grabNewRepos.sh ]; then bash grabNewRepos.sh;
+        cd ../../
+        fi
+    - name: Run BUILD script
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        export GITHUB_API_TOKEN=${{ secrets.GITHUB_TOKEN }}
+        python -m pip install --upgrade pip
+        pip install virtualenv
+        cd _explore/scripts/
+        virtualenv -p python3 venv
+        source venv/bin/activate
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; 
+        cd ../../
+        cd _explore/scripts/
+        if [ -f BUILD.sh ]; then bash BUILD.sh;
+        cd ../../
+        fi
+    - name: commit files
+      run: |
+        git add .
+        git commit -m "downloaded new README2.md file"
+        echo committed changes and next step is to push via force
+    - name: Push changes # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
+
+
+
+#   job_1:
+#     name: Add 3 and 10
+#     runs-on: ubuntu-latest
+#     steps:
+#       - shell: bash
+#         run: |
+#           expr 3 + 7 > math-homework.txt
+#       - name: Upload math result for job 1
+#         uses: actions/upload-artifact@v2
+#         with:
+#           name: homework
+#           path: math-homework.txt
+
+#   job_2:
+#     name: Multiply by 9
+#     needs: job_1
+#     runs-on: windows-latest
+#     steps:
+#       - name: Download math result for job 1
+#         uses: actions/download-artifact@v2
+#         with:
+#           name: homework
+#       - shell: bash
+#         run: |
+#           value=`cat math-homework.txt`
+#           expr $value \* 9 > math-homework.txt
+#       - name: Upload math result for job 2
+#         uses: actions/upload-artifact@v2
+#         with:
+#           name: homework
+#           path: math-homework.txt
+
+#   job_3:
+#     name: Display results
+#     needs: job_2
+#     runs-on: macOS-latest
+#     steps:
+#       - name: Download math result for job 2
+#         uses: actions/download-artifact@v2
+#         with:
+#           name: homework
+#       - name: Print the final result
+#         shell: bash
+#         run: |
+#           value=`cat math-homework.txt`
+#           echo The result is $value

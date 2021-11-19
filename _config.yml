@@ -1,0 +1,63 @@
+name: "Open Geoscience Code Projects Geoscience"
+author: "Justin Gosses"
+title: "Open Geoscience Code Projects Geoscience"
+description: "This site shows all the repositories on Awesome-Open-Geoscience awesome list that have github.com repositories as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between geoscience code projects!"
+remote_theme: LLNL/Jekyll-LLNL-Theme@main
+shortname: "SWUNG"
+
+# url: "https://softwareunderground.github.io/llnl.github.io/"
+# repo_url: "https://github.com/softwareunderground/llnl.github.io"
+baseurl: "/open_geosciene_code_projects_viz"
+
+
+should_a_readme_be_parsed_for_code_projects: False
+raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/main/README.md
+path_to_directory_to_save_awesome_list_readme: _explore
+filename_to_save_awesome_list_readme: awesome-open-geoscience.md
+name_of_code_platform_searched: https://github.com
+
+
+exclude_these_usernames:
+  - "sindresorhus"
+
+# LLNL Piwik Analytics https://analytics.llnl.gov
+# piwik_id: 250
+
+# Google Analytics ID
+#google_analytics:
+#  tracking_id: UA-75179431-1
+
+# Twitter username (used by jekyll-seo-tag)
+twitter:
+  username: swung_org
+
+# GitHub Metadata -- https://github.com/jekyll/github-metadata
+repository: softwareunderground/open_geosciene_code_projects_viz
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+kramdown:
+  auto_ids: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/news/:year/:month/:day/:title/"
+
+permalink: pretty
+
+exclude:
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - Makefile
+    - build
