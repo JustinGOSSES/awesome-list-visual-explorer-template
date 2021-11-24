@@ -77,9 +77,10 @@ def replace_text_in_these_files(paths_to_directory_to_searc_for_string_to_replac
 
 replace_text_in_these_files(paths_to_directory_to_searc_for_string_to_replace,files_to_not_replace_string_in,replace_all_instances_of_this_string_with_string_below_in_config,replaced_all_instances_of_string_above_in_config_with)
 
-# /Users/justingosses/Code/awsome-list-visual-explorer-template/assets/images/logos/Category _ LLNL Software Portal.html
 
-#####
+##### Calling two files explicitly here as they are either in top folder of the repository and I don't want to call anything 
+##### except them as in the case of index.html or
+##### the seemed to sometimes fail to be rewritten for some reason as in the case of category_info.json
 print("replacing text in index.html next")
 replace(root_level_index_path, replace_all_instances_of_this_string_with_string_below_in_config,replaced_all_instances_of_string_above_in_config_with)
 print("just run command replacing text in index.html")
@@ -87,13 +88,4 @@ print("just run command replacing text in index.html")
 ##### replace repo name in ../../_site/category/category_info.json
 print("replacing text in ../../_site/category/category_info.json")
 replace("../../_site/category/category_info.json",replace_all_instances_of_this_string_with_string_below_in_config,replaced_all_instances_of_string_above_in_config_with)
-
-# ##### replace repo name in ../../_site/category/category_info.json
-# print("replacing text in assets/images/logos/Category _ LLNL Software Portal.html")
-# replace("assets/images/logos/Category _ LLNL Software Portal.html",replace_all_instances_of_this_string_with_string_below_in_config,replaced_all_instances_of_string_above_in_config_with)
-
-##### replace repo name in ../../_site/category/category_info.json
-# print("replacing text in assets/images/logos/Category _ LLNL Software Portal.html")
-# replace("assets/images/logos/",replace_all_instances_of_this_string_with_string_below_in_config,replaced_all_instances_of_string_above_in_config_with)
-
 
