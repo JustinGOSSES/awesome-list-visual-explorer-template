@@ -135,6 +135,16 @@
             "login": "ArashPartow",
             "name": "Arash Partow"
         },
+        "BCampforts": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18086750?u=ce7b9602238ecf1fab07f7a81028a06eb35a454c&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "landlab/landlab"
+                ]
+            },
+            "login": "BCampforts",
+            "name": "Benjamin"
+        },
         "BadrBelhiti": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10263834?u=70da82a970ffc8928111aa2d28dfac63fde2ed5b&v=4",
             "contributedLabRepositories": {
@@ -3873,6 +3883,7 @@
                     "agile-geoscience/Volume_app",
                     "agile-geoscience/Wiki_bots",
                     "agile-geoscience/agile-geoscience.github.io",
+                    "agile-geoscience/agile.geosci.ai",
                     "agile-geoscience/bruges",
                     "agile-geoscience/digidisc",
                     "agile-geoscience/digilead",

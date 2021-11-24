@@ -6,7 +6,7 @@ layout: info
 ## {{ page.title }}
 {: .page-header .no_toc}
 
-*These FAQs primarily target LLNL developers working in the [LLNL GitHub organization](https://github.com/LLNL). Don't see your question listed below? Please contact [LLNL GitHub admins](mailto:github-admin@llnl.gov).*
+<!-- *These FAQs primarily target LLNL developers working in the [LLNL GitHub organization](https://github.com/LLNL). Don't see your question listed below? Please contact [LLNL GitHub admins](mailto:github-admin@llnl.gov).* -->
 
 * Table of Contents
 {:toc}

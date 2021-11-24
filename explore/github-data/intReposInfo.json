@@ -442,11 +442,11 @@
             },
             "description": "A Python interface for the Generic Mapping Tools.",
             "forks": {
-                "totalCount": 163
+                "totalCount": 162
             },
             "homepageUrl": "https://www.pygmt.org",
             "issues_Closed": {
-                "totalCount": 457
+                "totalCount": 458
             },
             "issues_Open": {
                 "totalCount": 96
@@ -480,7 +480,7 @@
                 "totalCount": 958
             },
             "pullRequests_Open": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "repositoryTopics": {
                 "totalCount": 7
@@ -541,7 +541,7 @@
                 "totalCount": 8
             },
             "stargazers": {
-                "totalCount": 149
+                "totalCount": 148
             },
             "url": "https://github.com/GeoPyTool/GeoPyTool"
         },
@@ -596,7 +596,7 @@
                 "totalCount": 4
             },
             "stargazers": {
-                "totalCount": 54
+                "totalCount": 53
             },
             "url": "https://github.com/Geode-solutions/OpenGeode"
         },
@@ -871,7 +871,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 192
+                "totalCount": 191
             },
             "url": "https://github.com/JohnWStockwellJr/SeisUnix"
         },
@@ -926,7 +926,7 @@
                 "totalCount": 16
             },
             "stargazers": {
-                "totalCount": 321
+                "totalCount": 320
             },
             "url": "https://github.com/JuliaEarth/GeoStats.jl"
         },
@@ -1619,7 +1619,7 @@
                 "totalCount": 51
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 10
@@ -3335,10 +3335,10 @@
             },
             "homepageUrl": "http://resinsight.org/",
             "issues_Closed": {
-                "totalCount": 5454
+                "totalCount": 5456
             },
             "issues_Open": {
-                "totalCount": 997
+                "totalCount": 996
             },
             "languages": {
                 "totalCount": 13
@@ -3363,13 +3363,13 @@
                 "name": "C++"
             },
             "pullRequests_Closed": {
-                "totalCount": 393
+                "totalCount": 397
             },
             "pullRequests_Merged": {
-                "totalCount": 1408
+                "totalCount": 1412
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 9
@@ -4245,6 +4245,59 @@
             },
             "url": "https://github.com/agile-geoscience/agile-geoscience.github.io"
         },
+        "agile-geoscience/agile.geosci.ai": {
+            "createdAt": "2021-11-18T18:07:25Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Flask app for polarity app and bruges logo",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": {
+                "name": "Apache License 2.0",
+                "nickname": null,
+                "spdxId": "Apache-2.0",
+                "url": "http://choosealicense.com/licenses/apache-2.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "agile.geosci.ai",
+            "nameWithOwner": "agile-geoscience/agile.geosci.ai",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/1692321?v=4",
+                "login": "agile-geoscience"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/agile-geoscience/agile.geosci.ai"
+        },
         "agile-geoscience/bruges": {
             "createdAt": "2013-09-06T16:12:04Z",
             "defaultBranchRef": {
@@ -5057,7 +5110,7 @@
                 "totalCount": 2
             },
             "stargazers": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "url": "https://github.com/agile-geoscience/in-bruges"
         },
@@ -5932,7 +5985,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 208
+                "totalCount": 209
             },
             "url": "https://github.com/agile-geoscience/welly"
         },
@@ -6115,7 +6168,7 @@
                 "totalCount": 21
             },
             "issues_Open": {
-                "totalCount": 15
+                "totalCount": 16
             },
             "languages": {
                 "totalCount": 1
@@ -6874,7 +6927,7 @@
                 "totalCount": 14
             },
             "stargazers": {
-                "totalCount": 547
+                "totalCount": 546
             },
             "url": "https://github.com/cgre-aachen/gempy"
         },
@@ -7251,7 +7304,7 @@
             },
             "description": "open-AR-Sandbox is a project to enable haptic interaction with geoscientific content in AR-Sandboxes.",
             "forks": {
-                "totalCount": 11
+                "totalCount": 12
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -7823,7 +7876,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 23
+                "totalCount": 25
             },
             "url": "https://github.com/csdms/bmi"
         },
@@ -8003,10 +8056,10 @@
             },
             "homepageUrl": "http://emanuelhuber.github.io/RGPR/",
             "issues_Closed": {
-                "totalCount": 34
+                "totalCount": 35
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "languages": {
                 "totalCount": 1
@@ -8056,7 +8109,7 @@
                 "totalCount": 57
             },
             "issues_Open": {
-                "totalCount": 12
+                "totalCount": 13
             },
             "languages": {
                 "totalCount": 3
@@ -8087,7 +8140,7 @@
                 "totalCount": 66
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 7
@@ -8423,7 +8476,7 @@
                 "totalCount": 7
             },
             "stargazers": {
-                "totalCount": 335
+                "totalCount": 336
             },
             "url": "https://github.com/equinor/segyio"
         },
@@ -9243,7 +9296,7 @@
                 "totalCount": 72
             },
             "issues_Open": {
-                "totalCount": 26
+                "totalCount": 27
             },
             "languages": {
                 "totalCount": 2
@@ -9271,16 +9324,16 @@
                 "totalCount": 14
             },
             "pullRequests_Merged": {
-                "totalCount": 162
+                "totalCount": 163
             },
             "pullRequests_Open": {
-                "totalCount": 8
+                "totalCount": 7
             },
             "repositoryTopics": {
                 "totalCount": 9
             },
             "stargazers": {
-                "totalCount": 102
+                "totalCount": 103
             },
             "url": "https://github.com/fatiando/harmonica"
         },
@@ -10343,7 +10396,7 @@
                 "totalCount": 10
             },
             "stargazers": {
-                "totalCount": 350
+                "totalCount": 351
             },
             "url": "https://github.com/fatiando/verde"
         },
@@ -10564,7 +10617,7 @@
             },
             "description": "A set of useful perceptually uniform colormaps for plotting scientific data",
             "forks": {
-                "totalCount": 38
+                "totalCount": 39
             },
             "homepageUrl": "http://colorcet.holoviz.org",
             "issues_Closed": {
@@ -10687,10 +10740,10 @@
                 "totalCount": 2
             },
             "licenseInfo": {
-                "name": "GNU Affero General Public License v3.0",
-                "nickname": "GNU AGPLv3",
-                "spdxId": "AGPL-3.0",
-                "url": "http://choosealicense.com/licenses/agpl-3.0/"
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
             },
             "mentionableUsers": {
                 "totalCount": 5
@@ -10819,7 +10872,7 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -11532,7 +11585,7 @@
                 "totalCount": 358
             },
             "issues_Open": {
-                "totalCount": 254
+                "totalCount": 255
             },
             "languages": {
                 "totalCount": 6
@@ -11544,7 +11597,7 @@
                 "url": "http://choosealicense.com/licenses/mit/"
             },
             "mentionableUsers": {
-                "totalCount": 30
+                "totalCount": 31
             },
             "name": "landlab",
             "nameWithOwner": "landlab/landlab",
@@ -11560,7 +11613,7 @@
                 "totalCount": 54
             },
             "pullRequests_Merged": {
-                "totalCount": 664
+                "totalCount": 665
             },
             "pullRequests_Open": {
                 "totalCount": 31
@@ -12315,7 +12368,7 @@
             },
             "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.",
             "forks": {
-                "totalCount": 449
+                "totalCount": 450
             },
             "homepageUrl": "https://www.obspy.org",
             "issues_Closed": {
@@ -12594,10 +12647,10 @@
             },
             "homepageUrl": "https://docs.pyvista.org/",
             "issues_Closed": {
-                "totalCount": 420
+                "totalCount": 421
             },
             "issues_Open": {
-                "totalCount": 185
+                "totalCount": 186
             },
             "languages": {
                 "totalCount": 6
@@ -12625,10 +12678,10 @@
                 "totalCount": 75
             },
             "pullRequests_Merged": {
-                "totalCount": 921
+                "totalCount": 922
             },
             "pullRequests_Open": {
-                "totalCount": 14
+                "totalCount": 15
             },
             "repositoryTopics": {
                 "totalCount": 12
@@ -12787,7 +12840,7 @@
                 "name": "Python"
             },
             "pullRequests_Closed": {
-                "totalCount": 46
+                "totalCount": 47
             },
             "pullRequests_Merged": {
                 "totalCount": 20
@@ -12810,14 +12863,14 @@
             },
             "description": "Simulation and Parameter Estimation in Geophysics  -  A python package for simulation and gradient based parameter estimation in the context of geophysical applications.",
             "forks": {
-                "totalCount": 173
+                "totalCount": 175
             },
             "homepageUrl": "http://simpeg.xyz",
             "issues_Closed": {
-                "totalCount": 351
+                "totalCount": 352
             },
             "issues_Open": {
-                "totalCount": 112
+                "totalCount": 111
             },
             "languages": {
                 "totalCount": 2
@@ -12845,16 +12898,16 @@
                 "totalCount": 84
             },
             "pullRequests_Merged": {
-                "totalCount": 493
+                "totalCount": 494
             },
             "pullRequests_Open": {
-                "totalCount": 16
+                "totalCount": 15
             },
             "repositoryTopics": {
                 "totalCount": 20
             },
             "stargazers": {
-                "totalCount": 321
+                "totalCount": 320
             },
             "url": "https://github.com/simpeg/simpeg"
         },
@@ -14918,7 +14971,7 @@
             },
             "description": "SEGY Swiss Army Knife for Seismic Data",
             "forks": {
-                "totalCount": 21
+                "totalCount": 22
             },
             "homepageUrl": "https://segysak.readthedocs.io/en/latest/",
             "issues_Closed": {

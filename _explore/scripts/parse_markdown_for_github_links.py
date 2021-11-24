@@ -5,7 +5,7 @@ import re
 import os
 import yaml
 
-# Load YAML data from the file
+# Load YAML data from the _config.yml file
 with open('../../_config.yml') as file:
     try:
         config = yaml.safe_load(file)   
@@ -58,6 +58,7 @@ with open(path_to_markdown_test_file_copied_for_safe_keeping, 'a+') as safe_copy
 #### To plan for this future, we'll add the variable below
 
 arrayOfAllCodePlatforms = ["https://github.com","https://gitlab.com","https://bitbucket.org/"]
+
 
 #### FOR NOW HOWEVER, we'll just use the hardcoded github.com as shown below
 

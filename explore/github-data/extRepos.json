@@ -64,14 +64,6 @@
             },
             "nameWithOwner": "BritishGeologicalSurvey/CoreScore"
         },
-        "BritishGeologicalSurvey/VocPrez-theme-BGS": {
-            "labContributors": {
-                "nodes": [
-                    "metazool"
-                ]
-            },
-            "nameWithOwner": "BritishGeologicalSurvey/VocPrez-theme-BGS"
-        },
         "BritishGeologicalSurvey/geo-ner-model": {
             "labContributors": {
                 "nodes": [
@@ -87,14 +79,6 @@
                 ]
             },
             "nameWithOwner": "BritishGeologicalSurvey/stratigraph"
-        },
-        "BritishGeologicalSurvey/tweet_classification": {
-            "labContributors": {
-                "nodes": [
-                    "metazool"
-                ]
-            },
-            "nameWithOwner": "BritishGeologicalSurvey/tweet_classification"
         },
         "CSEG/Machine-Learning-CSEG-special-issue": {
             "labContributors": {
@@ -199,6 +183,14 @@
                 ]
             },
             "nameWithOwner": "GeophysicsLibrary/logo"
+        },
+        "GeophysicsLibrary/non-linear-gravity-inversion": {
+            "labContributors": {
+                "nodes": [
+                    "leouieda"
+                ]
+            },
+            "nameWithOwner": "GeophysicsLibrary/non-linear-gravity-inversion"
         },
         "Geothermal-Fluids/bpd_curve": {
             "labContributors": {
@@ -1341,6 +1333,14 @@
                 ]
             },
             "nameWithOwner": "geoscixyz/Toolkit"
+        },
+        "geoscixyz/em": {
+            "labContributors": {
+                "nodes": [
+                    "lheagy"
+                ]
+            },
+            "nameWithOwner": "geoscixyz/em"
         },
         "geoscixyz/em-apps": {
             "labContributors": {

@@ -311,7 +311,7 @@
                         "size": 182797
                     },
                     {
-                        "size": 96338
+                        "size": 96602
                     },
                     {
                         "size": 5140
@@ -336,7 +336,7 @@
                     }
                 ],
                 "totalCount": 4,
-                "totalSize": 2667461
+                "totalSize": 2667725
             }
         },
         "GeoscienceAustralia/geophys_utils": {
@@ -1014,7 +1014,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 501075
+                        "size": 501857
                     },
                     {
                         "size": 11982
@@ -1045,7 +1045,7 @@
                     }
                 ],
                 "totalCount": 4,
-                "totalSize": 514618
+                "totalSize": 515400
             }
         },
         "Loop3D/LoopStructuralWorkshop": {
@@ -1775,7 +1775,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 45161485
+                        "size": 45198095
                     },
                     {
                         "size": 3407902
@@ -1784,10 +1784,10 @@
                         "size": 1873127
                     },
                     {
-                        "size": 400834
+                        "size": 401060
                     },
                     {
-                        "size": 201838
+                        "size": 203669
                     },
                     {
                         "size": 126362
@@ -1869,7 +1869,7 @@
                     }
                 ],
                 "totalCount": 13,
-                "totalSize": 51338575
+                "totalSize": 51377242
             }
         },
         "OpenGeoVis/PVGeo": {
@@ -1997,10 +1997,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 21962142
+                        "size": 21965434
                     },
                     {
-                        "size": 258976
+                        "size": 258807
                     },
                     {
                         "size": 146487
@@ -2042,7 +2042,7 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 22537957
+                "totalSize": 22541080
             }
         },
         "SeisComP/seiscomp": {
@@ -2323,6 +2323,14 @@
                 ],
                 "totalCount": 3,
                 "totalSize": 18716
+            }
+        },
+        "agile-geoscience/agile.geosci.ai": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
             }
         },
         "agile-geoscience/bruges": {
@@ -3115,7 +3123,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 288248
+                        "size": 290469
                     }
                 ],
                 "nodes": [
@@ -3125,7 +3133,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 288248
+                "totalSize": 290469
             }
         },
         "capaulson/pyKriging": {
@@ -4695,7 +4703,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 373328
+                        "size": 373316
                     },
                     {
                         "size": 1975
@@ -4712,7 +4720,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 375303
+                "totalSize": 375291
             }
         },
         "fatiando/legacy-docs": {
@@ -5471,7 +5479,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 140501
+                        "size": 140503
                     },
                     {
                         "size": 1485
@@ -5488,7 +5496,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 141986
+                "totalSize": 141988
             }
         },
         "joferkington/mplstereonet": {
@@ -5804,13 +5812,13 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 4052380
+                        "size": 4218536
                     },
                     {
-                        "size": 1069550
+                        "size": 1123753
                     },
                     {
-                        "size": 209872
+                        "size": 217365
                     },
                     {
                         "size": 42252
@@ -5849,7 +5857,7 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 5377044
+                "totalSize": 5604896
             }
         },
         "landlab/landlab-logo": {
@@ -6324,13 +6332,13 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 21629198
+                        "size": 22890036
                     },
                     {
                         "size": 501895
                     },
                     {
-                        "size": 336490
+                        "size": 341331
                     },
                     {
                         "size": 185190
@@ -6376,7 +6384,7 @@
                     }
                 ],
                 "totalCount": 7,
-                "totalSize": 22654347
+                "totalSize": 23920026
             }
         },
         "pemn/vtk_triangulate_points": {
@@ -6407,10 +6415,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 3505077
+                        "size": 3539610
                     },
                     {
-                        "size": 391400
+                        "size": 393130
                     },
                     {
                         "size": 45037
@@ -6480,14 +6488,14 @@
                     }
                 ],
                 "totalCount": 10,
-                "totalSize": 4033525
+                "totalSize": 4069788
             }
         },
         "pyvista/pyvista": {
             "languages": {
                 "edges": [
                     {
-                        "size": 2092891
+                        "size": 2092950
                     },
                     {
                         "size": 5077
@@ -6532,7 +6540,7 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 2103359
+                "totalSize": 2103418
             }
         },
         "r-spatial/gstat": {
@@ -6625,7 +6633,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 2780591
+                        "size": 2780703
                     },
                     {
                         "size": 480
@@ -6642,7 +6650,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 2781071
+                "totalSize": 2781183
             }
         },
         "sinanozaydin/MATE": {
@@ -7025,10 +7033,10 @@
                         "size": 43644
                     },
                     {
-                        "size": 38324
+                        "size": 39011
                     },
                     {
-                        "size": 3393
+                        "size": 3465
                     },
                     {
                         "size": 279
@@ -7068,7 +7076,7 @@
                     }
                 ],
                 "totalCount": 7,
-                "totalSize": 445933
+                "totalSize": 446692
             }
         },
         "softwareunderground/paris2017": {
@@ -7092,7 +7100,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 2000376
+                        "size": 2592675
                     }
                 ],
                 "nodes": [
@@ -7102,7 +7110,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 2000376
+                "totalSize": 2592675
             }
         },
         "softwareunderground/stack-smoke-test": {

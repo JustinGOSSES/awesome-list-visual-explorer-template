@@ -587,6 +587,12 @@
         "topics": null,
         "website": null
     },
+    "agile-geoscience/agile.geosci.ai": {
+        "description": "Flask app for polarity app and bruges logo",
+        "name": "agile-geoscience/agile.geosci.ai",
+        "topics": null,
+        "website": null
+    },
     "agile-geoscience/bruges": {
         "description": "Geophysics library with various helpful functions",
         "name": "agile-geoscience/bruges",

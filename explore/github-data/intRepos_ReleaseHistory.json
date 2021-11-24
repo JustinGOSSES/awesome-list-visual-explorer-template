@@ -1299,6 +1299,11 @@
                         "name": "v9.5.0",
                         "publishedAt": "2021-11-15T15:34:27Z",
                         "tagName": "v9.5.0"
+                    },
+                    {
+                        "name": "v9.5.1",
+                        "publishedAt": "2021-11-18T11:42:38Z",
+                        "tagName": "v9.5.1"
                     }
                 ]
             }
@@ -2971,6 +2976,11 @@
             }
         },
         "agile-geoscience/agile-geoscience.github.io": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "agile-geoscience/agile.geosci.ai": {
             "releases": {
                 "nodes": []
             }

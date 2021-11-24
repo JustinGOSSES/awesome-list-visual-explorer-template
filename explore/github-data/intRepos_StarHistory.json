@@ -823,7 +823,7 @@
             },
             {
                 "date": "2021-11-15",
-                "value": 8
+                "value": 7
             }
         ],
         "GeoPyTool/GeoPyTool": [
@@ -1214,10 +1214,6 @@
             {
                 "date": "2021-09-20",
                 "value": 3
-            },
-            {
-                "date": "2021-09-27",
-                "value": 1
             }
         ],
         "Geode-solutions/OpenGeode": [
@@ -1363,10 +1359,6 @@
             },
             {
                 "date": "2021-11-08",
-                "value": 1
-            },
-            {
-                "date": "2021-11-15",
                 "value": 1
             }
         ],
@@ -2254,10 +2246,6 @@
             {
                 "date": "2017-04-10",
                 "value": 2
-            },
-            {
-                "date": "2017-05-01",
-                "value": 1
             },
             {
                 "date": "2017-06-05",
@@ -3295,7 +3283,7 @@
             },
             {
                 "date": "2021-11-08",
-                "value": 8
+                "value": 7
             }
         ],
         "JustinGOSSES/predictatops": [
@@ -4869,10 +4857,6 @@
             },
             {
                 "date": "2021-11-08",
-                "value": 1
-            },
-            {
-                "date": "2021-11-15",
                 "value": 1
             }
         ],
@@ -6745,6 +6729,7 @@
                 "value": 1
             }
         ],
+        "agile-geoscience/agile.geosci.ai": [],
         "agile-geoscience/bruges": [
             {
                 "date": "2013-11-11",
@@ -7281,6 +7266,10 @@
             {
                 "date": "2021-11-08",
                 "value": 2
+            },
+            {
+                "date": "2021-11-15",
+                "value": 4
             }
         ],
         "agile-geoscience/digidisc": [
@@ -7671,6 +7660,10 @@
             {
                 "date": "2021-07-19",
                 "value": 1
+            },
+            {
+                "date": "2021-11-01",
+                "value": 1
             }
         ],
         "agile-geoscience/jeepr": [
@@ -8039,10 +8032,6 @@
             },
             {
                 "date": "2021-10-25",
-                "value": 1
-            },
-            {
-                "date": "2021-11-08",
                 "value": 1
             }
         ],
@@ -9288,6 +9277,10 @@
             {
                 "date": "2021-11-08",
                 "value": 1
+            },
+            {
+                "date": "2021-11-15",
+                "value": 3
             }
         ],
         "agile-geoscience/xlines": [
@@ -10500,10 +10493,6 @@
             {
                 "date": "2021-10-18",
                 "value": 1
-            },
-            {
-                "date": "2021-11-15",
-                "value": 1
             }
         ],
         "cgre-aachen/Bayesian-Inference-Cases": [],
@@ -11541,7 +11530,7 @@
             },
             {
                 "date": "2021-11-15",
-                "value": 3
+                "value": 2
             }
         ],
         "cgre-aachen/gempy-canvas": [],
@@ -11993,6 +11982,10 @@
             {
                 "date": "2021-09-27",
                 "value": 2
+            },
+            {
+                "date": "2021-10-04",
+                "value": 1
             }
         ],
         "csdms/pymt": [
@@ -13929,6 +13922,10 @@
             {
                 "date": "2021-11-08",
                 "value": 1
+            },
+            {
+                "date": "2021-11-15",
+                "value": 2
             }
         ],
         "equinor/seismic-zfp": [
@@ -16093,6 +16090,10 @@
             {
                 "date": "2021-11-08",
                 "value": 9
+            },
+            {
+                "date": "2021-11-15",
+                "value": 1
             }
         ],
         "fatiando/wavefd": [
@@ -19561,10 +19562,6 @@
             },
             {
                 "date": "2021-11-01",
-                "value": 1
-            },
-            {
-                "date": "2021-11-08",
                 "value": 1
             }
         ],
@@ -23977,7 +23974,7 @@
             },
             {
                 "date": "2021-11-15",
-                "value": 4
+                "value": 3
             }
         ],
         "sinanozaydin/MATE": [
@@ -25041,6 +25038,10 @@
             {
                 "date": "2021-11-08",
                 "value": 6
+            },
+            {
+                "date": "2021-11-15",
+                "value": 7
             }
         ],
         "softwareunderground/badges": [

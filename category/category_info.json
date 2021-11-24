@@ -3,7 +3,7 @@
         "DATAUNDERGROUND": {
             "title": "DATAUNDERGROUND",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/performance.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/performance.svg",
                 "alt": "DATAUNDERGROUND or DATAUNDERGROUND related"
             },
             "description" : {
@@ -18,7 +18,7 @@
         "BUILD TOOLS": {
             "title": "Geology",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/build-tools.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/build-tools.svg",
                 "alt": "Geology"
             },
             "description": {
@@ -32,7 +32,7 @@
         "GEOPHYSICS": {
             "title": "GEOPHYSICS",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/math.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/math.svg",
                 "alt": "Geophysics"
             },
             "description": {
@@ -47,7 +47,7 @@
         "SEISMOLOGY": {
             "title": "SEISMOLOGY",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/math.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/math.svg",
                 "alt": "SEISMOLOGY"
             },
             "description": {
@@ -64,7 +64,7 @@
         "DATA MANAGEMENT & VIZ": {
             "title": "DATA MANAGEMENT",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/data-manage.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/data-manage.svg",
                 "alt": "Data Management"
             },
             "description": {
@@ -78,7 +78,7 @@
         "WEB SITES & APPLICATIONS": {
             "title": "WEB SITES & APPLICATIONS",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/application.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/application.svg",
                 "alt": "WEB SITES & APPLICATIONS"
             },
             "description": {
@@ -95,7 +95,7 @@
         "PROXY APPLICATIONS": {
             "title": "Visualization",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/prox-app.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/prox-app.svg",
                 "alt": "data visualization"
             },
             "description": {
@@ -111,7 +111,7 @@
         "SYSTEM SOFTWARE": {
             "title": "SYSTEM SOFTWARE",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/system-software.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/system-software.svg",
                 "alt": "Systems Software"
             },
             "description": {
@@ -125,7 +125,7 @@
         "WELL LOGS": {
             "title": "WELL LOGS",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/portable.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/portable.svg",
                 "alt": "Well logs"
             },
             "description": {
@@ -142,7 +142,7 @@
         "DATA MINING": {
             "title": "DATA MINING",
             "icon": {
-                "path": "/open_geosciene_code_projects_viz/assets/images/file-systems.svg",
+                "path": "/awsome-list-visual-explorer-template/assets/images/file-systems.svg",
                 "alt": "File Systems"
             },
             "description": {

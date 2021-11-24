@@ -1,13 +1,13 @@
-name: "Open Geoscience Code Projects Geoscience"
+name: "awsome-list-visual-explorer-template"
 author: "Justin Gosses"
-title: "Open Geoscience Code Projects Geoscience"
+title: "awsome-list-visual-explorer-template"
 description: "This site shows all the repositories on Awesome-Open-Geoscience awesome list that have github.com repositories as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between geoscience code projects!"
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
 shortname: "SWUNG"
 
 # url: "https://softwareunderground.github.io/llnl.github.io/"
 # repo_url: "https://github.com/softwareunderground/llnl.github.io"
-baseurl: "/open_geosciene_code_projects_viz"
+baseurl: "/awsome-list-visual-explorer-template"
 
 
 should_a_readme_be_parsed_for_code_projects: False
@@ -32,7 +32,28 @@ twitter:
   username: swung_org
 
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
-repository: softwareunderground/open_geosciene_code_projects_viz
+# repository: softwareunderground/open_geosciene_code_projects_viz
+#### NOT SURE WHAT THIS LINE DOES BUT TRyING TO AVOID LINKS BEING WRONG SO CHANGING IT
+repository: JustinGOSSES/awsome-list-visual-explorer-template
+
+#### This is called by the swap_repo_names.sh scripts and replaces all instances of the name of the repository this code is in.
+#### You would want to do this when reusing this template!
+replace_all_instances_of_this_string_with_string_below_in_config: open_geosciene_code_projects_viz
+replaced_all_instances_of_string_above_in_config_with: awsome-list-visual-explorer-template
+files_to_not_replace_string_in: 
+  - _config.yml
+  - README.md
+  - intRepos_ActivityCommits.json
+  - intUsers.json
+  - intRepo_Metadata.json
+  - intRepos_CreationHistory.json
+  - intRepos_Dependencies.json
+  - intRepos_Languages.json
+  - intRepos_ReleaseHistory.json
+  - intRepos_StarHistory.json
+  - intRepos_Topics.json
+  - intReposInfo.json
+
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag

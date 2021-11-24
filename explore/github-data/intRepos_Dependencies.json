@@ -962,19 +962,6 @@
                 ]
             }
         },
-        "FRI-Energy-Analytics/extra_credit": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
         "FRI-Energy-Analytics/project": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -2115,19 +2102,6 @@
                     {
                         "color": "#555555",
                         "name": "C"
-                    }
-                ]
-            }
-        },
-        "JuliaEarth/GeoStats.jl": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#a270ba",
-                        "name": "Julia"
                     }
                 ]
             }
@@ -5624,32 +5598,6 @@
                 "nodes": []
             }
         },
-        "Loop3D/loop3d.github.io": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            }
-        },
-        "Loop3D/loopUI": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
         "Loop3D/loop_nightly": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -5798,14 +5746,6 @@
             }
         },
         "Loop3D/model_library": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": []
-            }
-        },
-        "Loop3D/mplstereonet": {
             "dependencyGraphManifests": {
                 "nodes": []
             },
@@ -8045,19 +7985,6 @@
                 "nodes": []
             }
         },
-        "agile-geoscience/Booster_bootcamp": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#999999",
-                        "name": "Lasso"
-                    }
-                ]
-            }
-        },
         "agile-geoscience/LASinfections": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -8096,19 +8023,6 @@
                     {
                         "color": "#3572A5",
                         "name": "Python"
-                    }
-                ]
-            }
-        },
-        "agile-geoscience/Texture_classification": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#e16737",
-                        "name": "MATLAB"
                     }
                 ]
             }
@@ -8885,19 +8799,6 @@
                 ]
             }
         },
-        "agile-geoscience/geocomp-1day": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
         "agile-geoscience/geocomp-public": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -9027,19 +8928,6 @@
             },
             "languages": {
                 "nodes": []
-            }
-        },
-        "agile-geoscience/in-bruges": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
             }
         },
         "agile-geoscience/jeepr": {
@@ -9440,19 +9328,6 @@
                     {
                         "color": "#3572A5",
                         "name": "Python"
-                    }
-                ]
-            }
-        },
-        "agile-geoscience/notebooks": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
                     }
                 ]
             }
@@ -10752,19 +10627,6 @@
                 ]
             }
         },
-        "agile-geoscience/transform-2020-tutorial": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
         "agile-geoscience/visualizr": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -11722,19 +11584,6 @@
             },
             "languages": {
                 "nodes": []
-            }
-        },
-        "cgre-aachen/gemplay": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
             }
         },
         "cgre-aachen/gempy": {
@@ -12875,32 +12724,6 @@
             },
             "languages": {
                 "nodes": []
-            }
-        },
-        "cgre-aachen/gempy_workshops": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
-        "cgre-aachen/hspace": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
             }
         },
         "cgre-aachen/ki-campus": {
@@ -18143,14 +17966,6 @@
                 ]
             }
         },
-        "fatiando/.github": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": []
-            }
-        },
         "fatiando/2021-gsh": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -19409,7 +19224,69 @@
         },
         "fatiando/continuous-integration": {
             "dependencyGraphManifests": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "matplotlib",
+                                    "repository": {
+                                        "nameWithOwner": "matplotlib/matplotlib"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "numpydoc",
+                                    "repository": {
+                                        "nameWithOwner": "numpy/numpydoc"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pylint",
+                                    "repository": {
+                                        "nameWithOwner": "s0undt3ch/pylint"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pytest",
+                                    "repository": {
+                                        "nameWithOwner": "pytest-dev/pytest"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "sphinx",
+                                    "repository": {
+                                        "nameWithOwner": "sphinx-doc/sphinx"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "numpy",
+                                    "repository": {
+                                        "nameWithOwner": "numpy/numpy"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pandas",
+                                    "repository": {
+                                        "nameWithOwner": "pandas-dev/pandas"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
             },
             "languages": {
                 "nodes": [
@@ -19437,19 +19314,6 @@
                     {
                         "color": "#e34c26",
                         "name": "HTML"
-                    }
-                ]
-            }
-        },
-        "fatiando/egu2021": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
                     }
                 ]
             }
@@ -21765,28 +21629,7 @@
                 ]
             }
         },
-        "fatiando/tutorials": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": []
-            }
-        },
         "fatiando/v0.1": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#e34c26",
-                        "name": "HTML"
-                    }
-                ]
-            }
-        },
-        "fatiando/v0.2": {
             "dependencyGraphManifests": {
                 "nodes": []
             },
@@ -22468,6 +22311,13 @@
                                 },
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "pydata-sphinx-theme",
+                                    "repository": {
+                                        "nameWithOwner": "pydata/pydata-sphinx-theme"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "sphinx",
                                     "repository": {
                                         "nameWithOwner": "sphinx-doc/sphinx"
@@ -22478,13 +22328,6 @@
                                     "packageName": "sphinx-argparse",
                                     "repository": {
                                         "nameWithOwner": "alex-rudakov/sphinx-argparse"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "sphinx-book-theme",
-                                    "repository": {
-                                        "nameWithOwner": "executablebooks/sphinx-book-theme"
                                     }
                                 },
                                 {
@@ -22691,32 +22534,6 @@
                 ]
             }
         },
-        "landlab/General-Landlab-Clinic-2020-21": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
-        "landlab/UT_Landlab_Clinic": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
         "landlab/conda": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -22739,19 +22556,6 @@
                     {
                         "color": "#3572A5",
                         "name": "Python"
-                    }
-                ]
-            }
-        },
-        "landlab/csdms_model_clinic_may_2017": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
                     }
                 ]
             }
@@ -23960,6 +23764,13 @@
                             "nodes": [
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "bmi-topography",
+                                    "repository": {
+                                        "nameWithOwner": "csdms/bmi-topography"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "bmipy",
                                     "repository": {
                                         "nameWithOwner": "csdms/bmi-python"
@@ -24005,6 +23816,13 @@
                                     "packageName": "pyyaml",
                                     "repository": {
                                         "nameWithOwner": "yaml/pyyaml"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "richdem",
+                                    "repository": {
+                                        "nameWithOwner": "r-barnes/richdem"
                                     }
                                 },
                                 {
@@ -24221,46 +24039,7 @@
                 ]
             }
         },
-        "landlab/pub_adams_etal_gmd": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            }
-        },
-        "landlab/pub_adams_etal_rainfallvar_jgr": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            }
-        },
         "landlab/pub_nudurupati_etal_wrr": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            }
-        },
-        "landlab/pub_tucker_etal_gmd": {
             "dependencyGraphManifests": {
                 "nodes": []
             },
@@ -24714,19 +24493,6 @@
                     {
                         "color": "#DA5B0B",
                         "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
-        "pemn/vtk_triangulate_points": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
                     }
                 ]
             }
@@ -25945,27 +25711,6 @@
                 ]
             }
         },
-        "sinanozaydin/MATE": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            }
-        },
-        "softwareunderground/52things": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": []
-            }
-        },
         "softwareunderground/TeapotDome": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -25980,14 +25725,6 @@
             }
         },
         "softwareunderground/awesome-open-geoscience": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": []
-            }
-        },
-        "softwareunderground/badges": {
             "dependencyGraphManifests": {
                 "nodes": []
             },
@@ -26062,14 +25799,6 @@
             }
         },
         "softwareunderground/data-underground": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": []
-            }
-        },
-        "softwareunderground/event-proposals": {
             "dependencyGraphManifests": {
                 "nodes": []
             },
@@ -26262,14 +25991,6 @@
                 ]
             }
         },
-        "softwareunderground/meetings-that-matter": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": []
-            }
-        },
         "softwareunderground/northern-lights": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -26394,19 +26115,6 @@
             }
         },
         "softwareunderground/paris2017": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            }
-        },
-        "softwareunderground/repro-zoo": {
             "dependencyGraphManifests": {
                 "nodes": []
             },
@@ -26794,19 +26502,6 @@
                 ]
             }
         },
-        "softwareunderground/subsurface-ml-docker": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            }
-        },
         "softwareunderground/swung-org": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -26863,19 +26558,6 @@
             },
             "languages": {
                 "nodes": []
-            }
-        },
-        "softwareunderground/undersampledradio": {
-            "dependencyGraphManifests": {
-                "nodes": []
-            },
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
             }
         },
         "softwareunderground/website": {

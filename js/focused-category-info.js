@@ -4,15 +4,15 @@ angular.module('app', []).controller('gitHubDataController', [
     '$window',
     '$location',
     function($scope, $http, $window, $location) {
-        var getCategoryInfo = $http.get('/open_geosciene_code_projects_viz/category/category_info.json', {
+        var getCategoryInfo = $http.get('/awsome-list-visual-explorer-template/category/category_info.json', {
             cache: true
         });
 
-        var getReposTopics = $http.get('/open_geosciene_code_projects_viz/explore/github-data/intRepos_Topics.json', {
+        var getReposTopics = $http.get('/awsome-list-visual-explorer-template/explore/github-data/intRepos_Topics.json', {
             cache: true
         });
 
-        var getReposInfo = $http.get('/open_geosciene_code_projects_viz/explore/github-data/intReposInfo.json', {
+        var getReposInfo = $http.get('/awsome-list-visual-explorer-template/explore/github-data/intReposInfo.json', {
             cache: true
         });
 
@@ -101,7 +101,7 @@ angular.module('app', []).controller('gitHubDataController', [
                     var index = $scope.catData.length - 1;
                     $scope.selectedIndex = index;
                     var result = $scope.catData[index].title.replace(/ /g, '');
-                    $window.location.href = '/open_geosciene_code_projects_viz/category#' + result;
+                    $window.location.href = '/awsome-list-visual-explorer-template/category#' + result;
                 }
             }
 
@@ -173,7 +173,7 @@ angular.module('app', []).controller('gitHubDataController', [
                 //function to generate hash url for each category
                 $scope.categoryHref = function(nametag) {
                     var result = nametag.replace(/ /g, '');
-                    $window.location.href = '/open_geosciene_code_projects_viz/category#' + result;
+                    $window.location.href = '/awsome-list-visual-explorer-template/category#' + result;
                 };
             });
         });
