@@ -4,6 +4,8 @@
 
 This is a website that attempts to offer new ways to understand the variety of open source subsurface geoscience code available for use that people think is valuable.
 
+<b>THIS README WILL BE UPDATED AS THIS REPO IS CHANGED TO BE MORE OF A TEMPLATE. SOME LANGUAGE IS SPECIFIC TO A SINGLE USE CASE STILL</b>
+
 ## Live Pages
 - Explore page: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/
 - Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
