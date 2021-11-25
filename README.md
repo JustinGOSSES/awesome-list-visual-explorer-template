@@ -16,32 +16,12 @@
 The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page, that attempts to offer new ways to understand the implicit community innate to any Awesome List of another type of collection of code repositories. 
 
 It visualizes characteristics of communities of code repositories. 
-- Rate of new code repositories over time?
-- How does the rate of stars vary over time for invidual repositories and groups of them?
-- What licenses does the commmunity prefer?
-- What dependencies are shared across code projects?
-- What languages are most used across code projects?
-- What user or org contributes to the most projects or connect project groups?
-- etc. 
 
 The idea is by being able to quickly understand trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has long technically been available, but it is usually slow and difficult to surface so most people don't bother. 
 
 <b><i>The goal of this project is to surface those characteristics, trends, connections, relationships, etc. about the implicit community of developers and repositories in an Awesome List and make them available to the same people who get value from an Awesome List in list form.</i></b>
 
-## Overview of How awsome-list-visual-explorer-template Template Works
-At a very high level, there a variety of bash and Python scripts that grab github repository URLs from an Awesome List README location you supply as configuration, get details about those repositories from the GitHub API, and then rebuild the webpages with that information and information from a configuration file. 
-
-#### A step-by-step high level overview is:
-- Developer clicks on green "Use This Template" button on the <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">awsome-list-visual-explorer-template repository page</a>. This builds them a clone repository, not a fork!. 
-- They change information in the _config.yml file that sits at the top of the repository directory to reflect their name of the repositry, the location of the Awesome-list they want to build from, and other details. 
-- They install ruby and jekyl following the full "installation" instructions below. 
-- They change directory into `_explore/scripts` and follow the README there to install the python dependencies in an virtualenv. 
-- They run the bash script in the `_explore/scripts` directory called `grabNewRepos.sh`. This grabs github URLs from the README whose address was added to the `_config.yml` file and puts them in the `_explore/input_lists.json` file. 
-- They run the bash script in the `_explore/scripts` directory called `BUILD.sh`. This is the main build script for the repository and runs a bunch of python files in the scripts folder and also calls the GitHub API to get information like stars and contributors from each GitHub code repository listed in `input_lists.json`. It also replaces the name of the repository used in the template with the name of the new repository listed in `_config.yml`.
-- Lastly, they will run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
-
 ## Key Pages That The Template Builds
-
 ##### Front Page
 This is a catalog of all the code repositories. The organizational structure is based on topics tags on the github repositories themselves and categories that organize those tags set in `category/category_info.json`. 
 ##### About Page
@@ -66,13 +46,23 @@ Visualization of the most popular repositories including:
 - activity over time of the top 10 most popular repositories
 - licenses of the most popular repositories
 
-## Summary of Where This Start and Where It is Going
-IN PROGRESS!
 
-### What is it based off of?
+## Overview of How awsome-list-visual-explorer-template Template Works
+At a very high level, there a variety of bash and Python scripts that grab github repository URLs from an Awesome List README location you supply as configuration, get details about those repositories from the GitHub API, and then rebuild the webpages with that information and information from a configuration file. 
+
+#### A step-by-step high level overview of how the template is used:
+- Developer clicks on green "Use This Template" button on the <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">awsome-list-visual-explorer-template repository page</a>. This builds them a clone repository, not a fork!. 
+- They change information in the _config.yml file that sits at the top of the repository directory to reflect their name of the repositry, the location of the Awesome-list they want to build from, and other details. 
+- They install ruby and jekyl following the full "installation" instructions below. 
+- They change directory into `_explore/scripts` and follow the README there to install the python dependencies in an virtualenv. 
+- They run the bash script in the `_explore/scripts` directory called `grabNewRepos.sh`. This grabs github URLs from the README whose address was added to the `_config.yml` file and puts them in the `_explore/input_lists.json` file. 
+- They run the bash script in the `_explore/scripts` directory called `BUILD.sh`. This is the main build script for the repository and runs a bunch of python files in the scripts folder and also calls the GitHub API to get information like stars and contributors from each GitHub code repository listed in `input_lists.json`. It also replaces the name of the repository used in the template with the name of the new repository listed in `_config.yml`.
+- Lastly, they will run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
+
+### Prior Work
+<i>What is it based off of?</i>
 This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for SWUNG.
 
-### When was it created?
 It was initially created as part of the Transform 21' hackathon put on by The Software Underground or SWUNG.
 
 Original Project Plan: https://github.com/softwareunderground/transform-2021-hackathon/discussions/14
@@ -86,19 +76,25 @@ Before you begin, make sure you have working installs of Git, Ruby, and Bundler 
 
 ## Getting Started
 
-To work locally, first clone into the repository:
+First, use the template repository as your template. Got to https://github.com/JustinGOSSES/awsome-list-visual-explorer-template/ and click the big green button that say "Use This Template". 
+
+You'll probably want to give it a name that somewhat aligns with the Awesome List repository that you'll use for your data.
+
+Next, to work locally, clone your repository:
 
 ```
-git clone https://github.com/softwareunderground/open_geosciene_code_projects_viz.git
+git clone https://github.com/JustinGOSSES/awsome-list-visual-explorer-template/   <--- or your name of the repository!
 ```
 
-Make sure you are in the directory you just created by running `cd llnl.github.io` Then you can use `bundler` to install the Ruby dependencies (see the [Jekyll installation docs](https://jekyllrb.com/docs/installation/) for step-by-step guides to setting this up):
+Make sure you are in the directory you just created by running `cd nameOfRepositoryHere` Then you can use `bundler` to install the Ruby dependencies (see the [Jekyll installation docs](https://jekyllrb.com/docs/installation/) for step-by-step guides to setting this up):
 
 ```
 bundle install
 ```
 
-Running this will install everything in your Gemfile (including Jekyll). Finally, run the development web server with:
+Running this will install everything in your Gemfile (including Jekyll). 
+
+After all the data is updated and the pages are built fresh, you'll want to the development web server with:
 
 ```
 bundle exec jekyll serve
@@ -106,6 +102,20 @@ bundle exec jekyll serve
 
 Followed by opening <http://127.0.0.1:4000/open_geosciene_code_projects_viz/> in a web browser.
 
+You probably want to visualize details of an Awesome list specific to you though, so we'll get to that now. 
+
+Go to the `_config.yml` file and change some of the details. The important ones to change are:
+- name
+- authour
+- title
+- description
+- shortname
+- baseurl <=== This should be your repository name for GitHhub Pages deployment to work!!!
+- raw_link_to_awesome_list_readme_to_parse
+- filename_to_save_awesome_list_readme
+- twitter.username
+- repository <=== This should be your username/repositoryName!!!
+- replaced_all_instances_of_string_above_in_config_with <== This should be the name of your repository again. Where awsome-list-visual-explorer-template is found across HTML, JavaScript, and CSS files, it will be replaed with this string.
 
 ### Tips
 
