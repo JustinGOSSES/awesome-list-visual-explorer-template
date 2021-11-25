@@ -20,6 +20,8 @@ path_to_directory_to_save_awesome_list_readme: _explore
 filename_to_save_awesome_list_readme: awesome-open-geoscience.md
 #### Eventually, it would be nice to be able to work with GitLab and other code platform APIs as well but for now ths is just GitHub.
 name_of_code_platform_searched: https://github.com
+#### If True, this wipes out existing organizations and repositories listed in inputs_lists.json file that is used by the script to call the GitHub API.
+wipe_existing_content_from_input_lists_json: True
 
 #### There are situations where there are github repository links mentioned in the README that you'd prefer now to be included. 
 #### The base case example of this is the username sindresorhus who owns the AWESOME-LIST base repository that is often linked 

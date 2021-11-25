@@ -1,2 +1,3 @@
 llnl-scraper>=0.10.0
 pyyaml>=0.6.0
+in_place>=0.2.4
