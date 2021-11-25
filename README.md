@@ -44,6 +44,11 @@ Visualization of the most popular repositories including:
 - activity over time of the top 10 most popular repositories
 - licenses of the most popular repositories
 
+## Examples Pages
+
+- https://JustinGOSSES.github.io/awsome-list-visual-explorer-template/
+- https://softwareunderground.github.io/open_geosciene_code_projects_viz/
+
 ### Prior Work
 <i>What is it based off of?</i>
 This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for visualizing Software Underground's Awesome-Open-Geoscience list.
