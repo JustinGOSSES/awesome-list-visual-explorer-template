@@ -7,7 +7,9 @@ layout: homepage
 
 <!-- <p class="page-title">Welcome to the LLNL software portal—a hub for our open source projects. <br />Our <a ng-click="categoryHref('ALL SOFTWARE')" style="cursor: pointer">full catalog</a> is updated regularly as repositories are added or modified.</p> -->
 <!-- <p class="page-title">Welcome to a Transform21 Hackathon project to explore using the open-source LLNL software portal code base as a starting point for understanding engagement with and links between open source subsurface geoscience code repositories! </p> -->
-<p class="page-title"> This site SHOWS ALL the repositories on <a href="https://github.com/softwareunderground/awesome-open-geoscience">Awesome-Open-Geoscience</a> awesome list that have github.com repositories as well as additional code projects suggeted via pull request. The <a href="/explore">explore section</a> attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between geoscience code projects! </p>
+<p class="page-title"> This site shows all of the GitHub repositories from the <a href="{{ site.non_raw_link_to_awesome_list_readme_to_parse }}">{{site.awesome_list_repo_name}} the </a> parsed awesome list, as well as additional code projects added manually.</p>
+<p class="page-title">If you see categories but not repos it is because none of the GitHub topic tags match ones that tie to categories. You can see all of the parsed repositories <a href="category/#/ALLSOFTWARE">here</a></p>
+<p class="page-title"> The main point of this website though is the visualizations, which you can start to explore from the <a href="explore">explore section</a>! </p>
 
 <section class="flex-container" id="categories">
     <div ng-repeat="category in catData" class="flex-category dynamic" ng-click="categoryHref(category.title)">
