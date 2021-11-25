@@ -9,6 +9,9 @@
 - Purpose:
 - Link To Awesome List Sourced In This Code Project: 
 
+### Contributing to this repository if not the template
+------------ INFORMATION GOES HERE ------------
+
 <i>----- REST OF INFORMATION ABOUT THIS SPECIFIC CODE REPOSITORY IF NOT THE TEMPLATE ITSELF GOES HERE ------</i>
 
 ## What Does the awsome-list-visual-explorer-template Template Build?
@@ -154,10 +157,6 @@ As an example, the default version of Ruby used to deploy GitHub Pages on github
 
 
 ## Contributing to the Template
------------- IN PROGESS ------------
-
-
-## Contributing to this repository if not the template
 ------------ IN PROGESS ------------
 
 
