@@ -142,6 +142,8 @@ Once you've done that, you can proceed to run the first bash script to gather Gi
 
 Next step is to run `bash BUILD.sh`. This is the main build script for the repository and runs a bunch of python files in the scripts folder and also calls the GitHub API to get information like stars and contributors from each GitHub code repository listed in `input_lists.json`. It also replaces the name of the repository used in the template with the name of the new repository listed in `_config.yml`.
 
+<i>NOTE: the build.sh script does many calls to the GitHub API, which means it can sometimes take 15-30 minutes to complete its full run!</i>
+
 Lastly, change directory back to the root of the directory by running `cd ../../` and then run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
 
 #### GithubActions 
