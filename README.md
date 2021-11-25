@@ -13,13 +13,11 @@
 
 ## What Does the awsome-list-visual-explorer-template Template Build?
 
-The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page, that attempts to offer new ways to understand the implicit community innate to any Awesome List of another type of collection of code repositories. 
-
-It visualizes characteristics of communities of code repositories. 
-
-The idea is by being able to quickly understand trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has long technically been available, but it is usually slow and difficult to surface so most people don't bother. 
-
 <b><i>The goal of this project is to surface those characteristics, trends, connections, relationships, etc. about the implicit community of developers and repositories in an Awesome List and make them available to the same people who get value from an Awesome List in list form.</i></b>
+
+The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page, that attempts to offer new ways to understand the implicit community innate to any Awesome List or another type of collection of code repositories. It visualizes characteristics of communities of code repositories. 
+
+The idea behind its creation is by being able to quickly understand trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has technically long been available, but it is usually slow and difficult to surface so most people don't bother. 
 
 ## Key Pages That The Template Builds
 ##### Front Page
@@ -46,6 +44,27 @@ Visualization of the most popular repositories including:
 - activity over time of the top 10 most popular repositories
 - licenses of the most popular repositories
 
+### Prior Work
+<i>What is it based off of?</i>
+This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for visualizing Software Underground's Awesome-Open-Geoscience list.
+
+It was initially created as part of the Transform 21' hackathon put on by The Software Underground or SWUNG.
+
+Original Project Plan: https://github.com/softwareunderground/transform-2021-hackathon/discussions/14
+
+The project plan has now been moved to issues: https://github.com/softwareunderground/open_geosciene_code_projects_viz/projects/1
+
+The code is still largely that of the original  <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a>.
+
+### Completed Changes From Original Project & Possible Future Changes Roadmap 
+https://github.com/softwareunderground/open_geosciene_code_projects_viz/blob/main/changes_needed.md
+
+### Presentations on What's trying to be accomplished with this repository
+
+SLIDES PRESENTED DURING HACKATHON: https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel 
+
+MEDIUM STORY: https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
+
 
 ## Overview of How awsome-list-visual-explorer-template Template Works
 At a very high level, there a variety of bash and Python scripts that grab github repository URLs from an Awesome List README location you supply as configuration, get details about those repositories from the GitHub API, and then rebuild the webpages with that information and information from a configuration file. 
@@ -58,16 +77,6 @@ At a very high level, there a variety of bash and Python scripts that grab githu
 - They run the bash script in the `_explore/scripts` directory called `grabNewRepos.sh`. This grabs github URLs from the README whose address was added to the `_config.yml` file and puts them in the `_explore/input_lists.json` file. 
 - They run the bash script in the `_explore/scripts` directory called `BUILD.sh`. This is the main build script for the repository and runs a bunch of python files in the scripts folder and also calls the GitHub API to get information like stars and contributors from each GitHub code repository listed in `input_lists.json`. It also replaces the name of the repository used in the template with the name of the new repository listed in `_config.yml`.
 - Lastly, they will run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
-
-### Prior Work
-<i>What is it based off of?</i>
-This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for SWUNG.
-
-It was initially created as part of the Transform 21' hackathon put on by The Software Underground or SWUNG.
-
-Original Project Plan: https://github.com/softwareunderground/transform-2021-hackathon/discussions/14
-
-The project plan has now been moved to issues: https://github.com/softwareunderground/open_geosciene_code_projects_viz/projects/1
 
 
 ## Prerequisites
@@ -127,7 +136,7 @@ Next step is to run `bash BUILD.sh`. This is the main build script for the repos
 
 Lastly, change directory back to the root of the directory by running `cd ../../` and then run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
 
-### Tips
+#### Tips
 
 The gems in your sourcefile get updated frequently. It is a good idea to occasionally run `bundle update` from within your project's root directory to make sure the software on your computer is up to date.
 
@@ -135,16 +144,8 @@ Sometimes there can be dependency conflicts if your local version of Ruby is dif
 
 As an example, the default version of Ruby used to deploy GitHub Pages on github.com as of 2021-04-08 was Ruby	2.7.1. If you tried running Ruby version 3.0.0 locally on macOS, you'll need to do some extra steps to correctly install the dependencies for this repository. You'd need to run `bundle add webrick` as it is no longer a prepackaged dependency with Ruby in 3.0.0. You may also need to run `gem install eventmachine -- --with-openssl-dir=/usr/local/opt/openssl@1.1` as MacOS >10.14 doesn't use openssl from the same path as is still assumed to be in by eventmachine.
 
-
-### Completed Changes From Original Project & Possible Future Changes Roadmap 
-https://github.com/softwareunderground/open_geosciene_code_projects_viz/blob/main/changes_needed.md
-
-### Presentations on What's trying to be accomplished with this repository
-
-SLIDES PRESENTED DURING HACKATHON: https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel 
-
-MEDIUM STORY: https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
-
+#### How to get additional code repositories tracked not in the awesome list in the _config.yml file?
+------------ IN PROGESS ------------
 
 
 ## Contributing to the Template
@@ -153,7 +154,6 @@ MEDIUM STORY: https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
 
 ## Contributing to this repository if not the template
 ------------ IN PROGESS ------------
-
 
 
 ## How to get changes from the template after your repository is already built?
