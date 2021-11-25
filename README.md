@@ -1,7 +1,7 @@
 # awsome-list-visual-explorer-template
 
 ## DESCRIPTION of the awsome-list-visual-explorer-template TEMPLATE
-<i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not https://github.com/JustinGOSSES/awsome-list-visual-explorer-template, you are looking at a code repository made with the template.</i>
+<i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i>
 
 
 ## What Does the Template Build?
