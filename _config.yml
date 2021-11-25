@@ -62,9 +62,6 @@ files_to_not_replace_string_in:
   - intRepos_StarHistory.json
   - intRepos_Topics.json
   - intReposInfo.json
-  - *.png
-  - *.jpeg
-  - *.svg
 
 plugins:
   - jekyll-github-metadata
