@@ -3,8 +3,15 @@
 ## DESCRIPTION of the awsome-list-visual-explorer-template TEMPLATE
 <i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i>
 
+## Description of this code repository if not the template:
+- Repository Name: 
+- Repository Authors: 
+- Purpose:
+- Link To Awesome List Sourced In This Code Project: 
 
-## What Does the Template Build?
+<i>----- REST OF INFORMATION ABOUT THIS SPECIFIC CODE REPOSITORY IF NOT THE TEMPLATE ITSELF GOES HERE ------</i>
+
+## What Does the awsome-list-visual-explorer-template Template Build?
 
 The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page, that attempts to offer new ways to understand the implicit community innate to any Awesome List of another type of collection of code repositories. 
 
