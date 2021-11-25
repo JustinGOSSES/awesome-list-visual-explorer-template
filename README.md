@@ -15,9 +15,9 @@
 
 <b><i>The goal of this project is to surface the characteristics, trends, connections, relationships, etc. that can describe the implicit community of developers and repositories in an Awesome List and make them available in a visual form to the same people who get value from an Awesome List in list form.</i></b>
 
-The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page, that attempts to offer new ways to understand the implicit community innate to any Awesome List or another type of collection of code repositories. It visualizes characteristics of communities of code repositories. 
+The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page.
 
-The idea behind its creation is by being able to quickly understand trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has technically long been available, but it is usually slow and difficult to surface so most people don't bother. 
+The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has technically long been available, but it is usually slow and difficult to surface so most people don't bother. 
 
 ## Key Pages That The Template Builds
 ##### Front Page
