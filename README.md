@@ -1,7 +1,8 @@
 # awsome-list-visual-explorer-template
 
 ## DESCRIPTION of the awsome-list-visual-explorer-template TEMPLATE
-This code repository is a template. You may be looking at the original if the repository name is `awsome-list-visual-explorer-template`. If it has a different name, you are likely looking at another repository made with the template!
+<i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template that is used as a template. If the name of the code repository is not https://github.com/JustinGOSSES/awsome-list-visual-explorer-template, you are looking at a code repository made with the template.</i>
+
 
 ## What Does the Template Build?
 
