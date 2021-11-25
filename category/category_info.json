@@ -1,18 +1,19 @@
 {
     "data": {
         "Awesome": {
-            "title": "DATAUNDERGROUND",
+            "title": "Awesome",
             "icon": {
                 "path": "/awsome-list-visual-explorer-template/assets/images/performance.svg",
-                "alt": "DATAUNDERGROUND or DATAUNDERGROUND related"
+                "alt": "having to do with the Awesome Lists"
             },
             "description" : {
-                "short": "Repos having to do with the DATAUNDERGROUND site or that use datasets from DATAUNDERGROUND",
+                "short": "Repos having to do with the Awesome Lists",
                 "long": ""
             },
             "topics": [
-                "DATAUNDERGROUND",
-                "dataunderground"
+                "Awesome",
+                "Awesome-list",
+                "Awesome-Lists"
             ]
         },
         "DATA MANAGEMENT & VIZ": {
