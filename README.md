@@ -144,6 +144,9 @@ Next step is to run `bash BUILD.sh`. This is the main build script for the repos
 
 Lastly, change directory back to the root of the directory by running `cd ../../` and then run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
 
+#### GithubActions 
+The steps to gather data from the Awesome List defined in the _config.yml file and rebuild the page is also built into a GitHubActions configuration file at `.github/workflows/update`. 
+
 #### Tips
 
 The gems in your sourcefile get updated frequently. It is a good idea to occasionally run `bundle update` from within your project's root directory to make sure the software on your computer is up to date.
