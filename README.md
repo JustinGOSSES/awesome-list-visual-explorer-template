@@ -13,7 +13,7 @@
 
 ## What Does the awsome-list-visual-explorer-template Template Build?
 
-<b><i>The goal of this project is to surface those characteristics, trends, connections, relationships, etc. about the implicit community of developers and repositories in an Awesome List and make them available to the same people who get value from an Awesome List in list form.</i></b>
+<b><i>The goal of this project is to surface the characteristics, trends, connections, relationships, etc. that can describe the implicit community of developers and repositories in an Awesome List and make them available in a visual form to the same people who get value from an Awesome List in list form.</i></b>
 
 The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page, that attempts to offer new ways to understand the implicit community innate to any Awesome List or another type of collection of code repositories. It visualizes characteristics of communities of code repositories. 
 
