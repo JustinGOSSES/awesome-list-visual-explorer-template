@@ -145,7 +145,9 @@ Next step is to run `bash BUILD.sh`. This is the main build script for the repos
 Lastly, change directory back to the root of the directory by running `cd ../../` and then run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
 
 #### GithubActions 
-The steps to gather data from the Awesome List defined in the _config.yml file and rebuild the page is also built into a GitHubActions configuration file at `.github/workflows/update`. 
+The steps to gather data from the Awesome List defined in the _config.yml file and rebuild the page is also built into a GitHubActions configuration file at `.github/workflows/update.yml`. 
+
+Currently, this is set to only run on manual trigger or what's called workflow dispatch. Once changes are stabled, the GitHubActions scripts could be used to pull in new data from the Awesome list on some predetermined timing or upon pull request to keep the page visualizations up to date with the Awesome List it pulls from. 
 
 #### Tips
 
