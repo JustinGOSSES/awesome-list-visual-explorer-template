@@ -1,6 +1,6 @@
 # awsome-list-visual-explorer-template
 
-## DESCRIPTION of the awsome-list-visual-explorer-template TEMPLATE
+## Is this the awsome-list-visual-explorer-template TEMPLATE or a repository made from the template?
 <i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i>
 
 ## Description of this code repository if not the template:
