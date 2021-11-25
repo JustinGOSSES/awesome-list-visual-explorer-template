@@ -14,7 +14,7 @@ shortname: "SWUNG"
 baseurl: "/awsome-list-visual-explorer-template"
 
 #### Change these variables to control which awesome list README is parsed and the links to github repositories extracted and then used to populate the page content.
-should_a_readme_be_parsed_for_code_projects: False
+should_a_readme_be_parsed_for_code_projects: True
 raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/main/README.md
 path_to_directory_to_save_awesome_list_readme: _explore
 filename_to_save_awesome_list_readme: awesome-open-geoscience.md
@@ -38,7 +38,7 @@ exclude_these_usernames:
 
 # Twitter username (used by jekyll-seo-tag)
 twitter:
-  username: swung_org
+  username: JustinGOSSES
 
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
 # repository: softwareunderground/open_geosciene_code_projects_viz
@@ -47,7 +47,8 @@ repository: JustinGOSSES/awsome-list-visual-explorer-template
 
 #### This is called by the swap_repo_names.sh scripts and replaces all instances of the name of the repository this code is in.
 #### You would want to do this when reusing this template!
-replace_all_instances_of_this_string_with_string_below_in_config: open_geosciene_code_projects_viz
+#replace_all_instances_of_this_string_with_string_below_in_config: open_geosciene_code_projects_viz
+replace_all_instances_of_this_string_with_string_below_in_config: awsome-list-visual-explorer-template
 replaced_all_instances_of_string_above_in_config_with: awsome-list-visual-explorer-template
 files_to_not_replace_string_in: 
   - _config.yml

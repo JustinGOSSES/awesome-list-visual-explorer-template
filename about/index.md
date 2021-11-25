@@ -10,19 +10,23 @@ layout: info
 {:toc}
 
 ### What is this?
-This is a website that attempts to offer new ways to understand the variety of open source subsurface geoscience code available for use that people think is valuable.
+This webpage was built from a template that automates the process of creating visualizations that make it easier to understand the trends and connections between a group of GitHub code repositories documented in an Awesome List, or otherwise included in configuration files.
 
-### What is the value of this?
+#### Why Visualize Awesome Lists?
 
-The basic idea is that within smaller communities it can be difficult to find applicable open source code for your problem. A lot of what code you use is based on word of mouth and stumbling upon someone else's repository working on similar problems. This can be inefficient. 
+Within smaller communities it can be difficult to find applicable open source code for your problem. A lot of what code you use is based on word of mouth and stumbling upon someone else's repository working on similar problems. This can be inefficient. 
 
-<a href="https://github.com/sindresorhus/awesome">Awesome lists</a> are a great way to source code specific to a domain, problem, or use case that others think is "awesome", but they are limited in that they don't show connections between projects or directly show you how popularity of projects might have changed over time.
+<a href="https://github.com/sindresorhus/awesome">Awesome lists</a> are a great way to source code specific to a domain, problem, or use case that others think is "awesome". 
 
-<i>If it was easier to understand what code is being most used, what code uses similar dependencies, and what projects are attracting the same groups of contributers, community participants might be nudged into more impactful contributions more often.</i>
+Awesome Lists have limits in that they don't show connections between projects or directly show you how popularity of projects might have changed over time. These are some of the things this project seeks to make a little easier!
 
-##### This site uses code repository metadata sourced through the Github API to create new interfaces for exploring code repositories and their connections with the idea that extra view can help drive more impactful contribution & use.  
+More information can be found in the README for the template at <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">https://github.com/JustinGOSSES/awsome-list-visual-explorer-template</a>
 
-<br/>
+The README for this repository, which may or may not be the template, is: <a href="https://github.com/{{site.repository}}">https://github.com/{{site.repository}}</a>.
+
+
+<!-- 
+
 
 You can understand more about the value & vision of this project by checking out <a href="https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel">this slide presentation</a> on Observablehq.com.
 
@@ -56,7 +60,7 @@ Check out the <a href="https://github.com/softwareunderground/open_geosciene_cod
 
 ### Possible roadmap & ways to use in future
 - Add CI/CD automation such that any changes in <a href="https://github.com/softwareunderground/awesome-open-geoscience">AWESOME OPEN GEOSCIENCE</a> awesome list show up here. 
-- Better document all the changes between the original LLNL software catalog and here in order to help others replace using these code to understand  other communities. 
+- Better document all the changes between the original LLNL software catalog and here in order to help others replace using these code to understand  other communities.  -->
 
 
 
