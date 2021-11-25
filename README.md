@@ -134,6 +134,8 @@ Go to the `_config.yml` file and change some of the details. The important ones 
 - repository <=== This should be your username/repositoryName!!!
 - replaced_all_instances_of_string_above_in_config_with <== This should be the name of your repository again. Where awsome-list-visual-explorer-template is found across HTML, JavaScript, and CSS files, it will be replaed with this string.
 
+The python scripts call the GitHub API, which means the environment you run your code in requires a GitHub API Token as an environmental variable. The token only needs READ access to public repositories. You can read about how to get a GitHub API token <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">here</a> and <a href="https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api">here</a>. If running locally in a terminal, you probably want to get it into your environment by running something like `export GITHUB_API_TOKEN digitsOfYourTokenGoHere`. If running in the GitHubActions, the `.github/workflows/update.yml` file already has you covered. 
+
 Next, we'll work with the scripts that pull in data and rebuild the pages. 
 
 Change directory to `_explore/scripts` and read the README there for instructions on how to start a virtual environment and install the dependencies in requirements.txt. 
