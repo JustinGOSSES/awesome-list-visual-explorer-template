@@ -27,10 +27,11 @@ arr=($(cat ../../_config.yml | grep "wipe_existing_content_from_input_lists_json
 wipe_existing_content_from_input_lists_json=${arr[1]}
 echo value of wipe_existing_content_from_input_lists_json is $wipe_existing_content_from_input_lists_json
 
-if [ $wipe_existing_content_from_input_lists_json = "True" ]; then
+if [ $wipe_existing_content_from_input_lists_json = True ]; then
     echo "wiping existing content from input_lists.json"
-    cp ../input_lists_blankStarter.json ../input_lists.json.bak
-    echo "got just past line that runs cp ../input_lists_blankStarter.json ../input_lists.json.bak" 
+    rm ../input_lists.json
+    cp ../input_lists_blankStarter.json ../input_lists.json
+    echo "got just past line that runs cp ../input_lists_blankStarter.json ../input_lists.json" 
 fi
 
 curl $raw_link_to_awesome_list_readme_to_parse -o ../$filename_to_save_awesome_list_readme
