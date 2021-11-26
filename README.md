@@ -7,7 +7,9 @@
 - Repository Name: 
 - Repository Authors: 
 - Purpose:
-- Link To Awesome List Sourced In This Code Project: 
+- Link To Awesome List Parsed In This Code Project:
+- Link to Live Website: <b><a href="">none yet</a></b>
+- Last Ran in Full On: YYYY-MM-DD
 
 ### Contributing to this repository if not the template
 ------------ INFORMATION GOES HERE ------------
