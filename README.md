@@ -49,8 +49,7 @@ Visualization of the most popular repositories including:
 - activity over time of the top 10 most popular repositories
 - licenses of the most popular repositories
 
-## Examples Webpages Exploring An Awesome List 
-Or other collection of repositories built with this template:
+## Examples Webpages Exploring An Awesome List Built With This Template
 
 - https://JustinGOSSES.github.io/awsome-list-visual-explorer-template/
 - https://softwareunderground.github.io/open_geosciene_code_projects_viz/
