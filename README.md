@@ -53,6 +53,7 @@ Visualization of the most popular repositories including:
 
 - https://JustinGOSSES.github.io/awsome-list-visual-explorer-template/
 - https://softwareunderground.github.io/open_geosciene_code_projects_viz/
+- https://github.com/JustinGOSSES/Awesome-Earth-Artificial-Intelligence-visual-explorer
 
 ### Prior Work
 <i>What is it based off of?</i>
