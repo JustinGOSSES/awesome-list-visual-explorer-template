@@ -2,7 +2,7 @@
 
 `The awsome-list-visual-explorer-template is a repository designed to be used as a template repository. If the name of the code repository is not `<b>awsome-list-visual-explorer-template</b>` you are looking at a code repository made with the template.` 
 
-Users can change a few things in a config file, `_config.yml`, and generate a website that is deployed as a GitHub pages page via a few simple scripts. The website holds visualizations that increase understanding of the list of GitHub repositories. The list of repositories analyzed can come from an <a href="https://github.com/topics/awesome-list">Awesome List</a>, an GitHub org, or any other group of GitHub repositories define in the `_config.yml` file.
+This repository includes a config file, `_config.yml` that users can edit to point at an <a href="https://github.com/topics/awesome-list">Awesome List</a>, a GitHub org, or any other group of GitHub repositories. The user can then run a few pre-built scripts that harvest GitHub metadata about each repository, transform that metadata into visualizations, and generate a website with those interactive visualizations that is deployed as a GitHub pages page. 
 
 The visualizations show:
 - Rankings of which repos are most engaged with as shown through stars and forks. 
@@ -16,18 +16,12 @@ The visualizations show:
 
 The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it might nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. 
 
-<!-- ## What Does the awsome-list-visual-explorer-template Template Build?
-
-The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page.
-
-The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has technically long been available, but it is usually slow and difficult to surface so most people don't bother.  -->
-
 ## Is this the awsome-list-visual-explorer-template TEMPLATE or a repository made from the template?
 <i>NOTE:  If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template, <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">https://github.com/JustinGOSSES/awsome-list-visual-explorer-template</a>.</i>
 
 If this repository is not the template itself, suggest you move the section below up to the top & move the first paragraph to below this line.
 
-## Description of this code repository if not the template:
+### Description of this code repository if not the template:
 WRITE YOUR PURPOSE OF THE REPOSITORY HERE
 
 - Repository Name: 
