@@ -2,7 +2,7 @@
 
 
 # Welcome!
-This project is currently a side project by me, Justin Gosses, but I'm very open to anyone else contributing to building out this project and expanding on some of the ideas! This project was started in spring 2021 and I seem to have time to work on it every couple of months. 
+This project `IF THE README IS awsome-list-visual-explorer-template !!!` is currently a side project by me, Justin Gosses, but I'm very open to anyone else contributing to building out this project and expanding on some of the ideas! This project was started in spring 2021 and I seem to have time to work on it every couple of months. 
 
 # How to contribute
 
