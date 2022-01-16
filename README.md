@@ -14,7 +14,8 @@ The visualizations show:
 
 <b><i>The goal of this project is to surface the characteristics, trends, connections, relationships, etc. that can describe the implicit community of developers and repositories in an Awesome List, or other type of list, and make them available in a visual form to the same people who get value from an Awesome List in list form.</i></b> The speed of insights possible from visualizations in one place should be greater than what could occur by reading each repository individually. 
 
-The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it might nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. 
+The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it might nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. For instance, they might be more likely to contribute to a project they can see others in their community depend on rather than starting their similar project from scratch. 
+
 
 ## Is this the awsome-list-visual-explorer-template TEMPLATE or a repository made from the template?
 <i>NOTE:  If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template, <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">https://github.com/JustinGOSSES/awsome-list-visual-explorer-template</a>.</i>
