@@ -22,7 +22,7 @@ The idea behind its creation is by being able to quickly understand visually the
 
 If this repository is not the template itself, suggest you move the section below up to the top & move the first paragraph to below this line.
 
-### Description of this code repository if not the template:
+## Description of this code repository if not the template:
 WRITE YOUR PURPOSE OF THE REPOSITORY HERE
 
 - Repository Name: 
@@ -59,7 +59,7 @@ Visualization of the most popular repositories including:
 
 ## Additional Information About The awsome-list-visual-explorer-template Template
 
-### Webpages Built With This Template
+#### Webpages Built With This Template
 
 - https://JustinGOSSES.github.io/awsome-list-visual-explorer-template/
 - https://softwareunderground.github.io/open_geosciene_code_projects_viz/
@@ -69,7 +69,7 @@ Visualization of the most popular repositories including:
 - SLIDES PRESENTED DURING HACKATHON: https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel 
 - MEDIUM STORY: https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
 
-### Prior Work
+#### Prior Work
 <i>What is it based off of?</i>
 This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for visualizing Software Underground's Awesome-Open-Geoscience list.
 
@@ -172,7 +172,6 @@ As an example, the default version of Ruby used to deploy GitHub Pages on github
 
 #### How to get additional code repositories tracked not in the awesome list in the _config.yml file?
 ------------ IN PROGESS ------------
-
 
 ## Status
 This is still very much an experiment. Please jump in via issues or introduce yourself and your interest.
