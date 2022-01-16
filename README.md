@@ -4,6 +4,16 @@ The awsome-list-visual-explorer-template is a repository designed to be used as 
 
 The website holds visualizatios that attempt to increase understanding of the list of GitHub repositories. These can be all the repositories under a specific org or all the GitHub repositories scrapped from an <a href="https://github.com/topics/awesome-list">Awesome List</a> defined in the config file. The visualizations show rankings that help provide content about which repositories are most engaged with through stars and forks. It can also show repository to repository relationships like which repositories depend on one another or which ones share contributors. These can help understand the implicit community of developers as well as nudge developers to contribute to the buiding blocks that get a lot of reuse in their community. The goal is to make it more immediately obvious characteristics of the community that builds and uses the repositories.
 
+All of thse observations could also be done slowly by going to each repository and remembering what you saw, but by enabling these insights to happen quickly in one place it is hoped the insights will nudge developers to use and participate in more efficient ways.
+
+<!-- ## What Does the awsome-list-visual-explorer-template Template Build?
+
+<b><i>The goal of this project is to surface the characteristics, trends, connections, relationships, etc. that can describe the implicit community of developers and repositories in an Awesome List and make them available in a visual form to the same people who get value from an Awesome List in list form.</i></b>
+
+The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page.
+
+The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has technically long been available, but it is usually slow and difficult to surface so most people don't bother.  -->
+
 ## Is this the awsome-list-visual-explorer-template TEMPLATE or a repository made from the template?
 <i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i>
 
@@ -15,18 +25,6 @@ The website holds visualizatios that attempt to increase understanding of the li
 - Link to Live Website: <b><a href="">none yet</a></b>
 - Last Ran in Full On: YYYY-MM-DD
 
-### Contributing to this repository if not the template
------------- INFORMATION GOES HERE ------------
-
-<i>----- REST OF INFORMATION ABOUT THIS SPECIFIC CODE REPOSITORY IF NOT THE TEMPLATE ITSELF GOES HERE ------</i>
-
-## What Does the awsome-list-visual-explorer-template Template Build?
-
-<b><i>The goal of this project is to surface the characteristics, trends, connections, relationships, etc. that can describe the implicit community of developers and repositories in an Awesome List and make them available in a visual form to the same people who get value from an Awesome List in list form.</i></b>
-
-The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page.
-
-The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has technically long been available, but it is usually slow and difficult to surface so most people don't bother. 
 
 ## Key Pages That The Template Builds
 ##### Front Page
@@ -92,6 +90,8 @@ At a very high level, there a variety of bash and Python scripts that grab githu
 - They run the bash script in the `_explore/scripts` directory called `grabNewRepos.sh`. This grabs github URLs from the README whose address was added to the `_config.yml` file and puts them in the `_explore/input_lists.json` file. 
 - They run the bash script in the `_explore/scripts` directory called `BUILD.sh`. This is the main build script for the repository and runs a bunch of python files in the scripts folder and also calls the GitHub API to get information like stars and contributors from each GitHub code repository listed in `input_lists.json`. It also replaces the name of the repository used in the template with the name of the new repository listed in `_config.yml`.
 - Lastly, they will run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
+
+
 
 
 ## Prerequisites
@@ -174,6 +174,11 @@ As an example, the default version of Ruby used to deploy GitHub Pages on github
 
 ## Contributing to the Template
 ------------ IN PROGESS ------------
+
+### Contributing to this repository if not the template
+------------ INFORMATION GOES HERE ------------
+
+<i>----- REST OF INFORMATION ABOUT THIS SPECIFIC CODE REPOSITORY IF NOT THE TEMPLATE ITSELF GOES HERE ------</i>
 
 
 ## How to get changes from the template after your repository is already built?
