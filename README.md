@@ -172,6 +172,9 @@ As an example, the default version of Ruby used to deploy GitHub Pages on github
 ------------ IN PROGESS ------------
 
 
+## Status
+This is still very much an experiment. Please jump in via issues or introduce yourself and your interest.
+
 ## Contributing to the Template
 ------------ IN PROGESS ------------
 
