@@ -15,9 +15,13 @@ The template builds a website with a variety of visualizations, usually deployed
 The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it will nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. All this information has technically long been available, but it is usually slow and difficult to surface so most people don't bother.  -->
 
 ## Is this the awsome-list-visual-explorer-template TEMPLATE or a repository made from the template?
-<i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i>
+<i>NOTE:  If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template, <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">https://github.com/JustinGOSSES/awsome-list-visual-explorer-template</a>.</i>
+
+If this repository is not the template itself, suggest you move the section below up to the top & move the first paragraph to below this line.
 
 ## Description of this code repository if not the template:
+WRITE YOUR PURPOSE OF THE REPOSITORY HERE
+
 - Repository Name: 
 - Repository Authors: 
 - Purpose:
