@@ -21,3 +21,6 @@ These instructions might help if you haven't done that before: <a href="https://
 
 ## Unexpected Wait Times
 I'm pretty good at responding to issues and pull requests within a couple days at most. However, I have at times gotten swamped and things get missed. Feel free to tag an issue or pull request with an emoji to get it to pop up in my feed again. You can also probably find my email with a tiny bit of sleuthing given the rare combination of first name and last name.
+
+# Code of Conduct
+Please see the CODE_OF_CONDUCT in the parent directory: https://github.com/JustinGOSSES/awsome-list-visual-explorer-template/blob/main/CODE_OF_CONDUCT.md
