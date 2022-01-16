@@ -1,14 +1,22 @@
 # awsome-list-visual-explorer-template
 
-The awsome-list-visual-explorer-template is a repository designed to be used as a template repository. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i> Users can change a few things in a config file, `_config.yml`, and generate a website via a few simple scripts. 
+The awsome-list-visual-explorer-template is a repository designed to be used as a template repository. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i> 
 
-The website holds visualizatios that attempt to increase understanding of the list of GitHub repositories. These can be all the repositories under a specific org or all the GitHub repositories scrapped from an <a href="https://github.com/topics/awesome-list">Awesome List</a> defined in the config file. The visualizations show rankings that help provide content about which repositories are most engaged with through stars and forks. It can also show repository to repository relationships like which repositories depend on one another or which ones share contributors. These can help understand the implicit community of developers as well as nudge developers to contribute to the buiding blocks that get a lot of reuse in their community. The goal is to make it more immediately obvious characteristics of the community that builds and uses the repositories.
+Users can change a few things in a config file, `_config.yml`, and generate a website that is deployed as a GitHub pages page via a few simple scripts. The website holds visualizations that increase understanding of the list of GitHub repositories. The list of repositories analyzed can come from an <a href="https://github.com/topics/awesome-list">Awesome List</a>, an GitHub org, or any other group of GitHub repositories define in the `_config.yml` file.
 
-All of thse observations could also be done slowly by going to each repository and remembering what you saw, but by enabling these insights to happen quickly in one place it is hoped the insights will nudge developers to use and participate in more efficient ways.
+The visualizations show:
+- Rankings of which repos are most engaged with as shown through stars and forks. 
+- The diversity of languages used by the community.
+- What dependencies are most common in the community.
+- Which repositories share dependencies.
+- Which orgs or users write code with similar dependencies.
+- etc.
+
+<b><i>The goal of this project is to surface the characteristics, trends, connections, relationships, etc. that can describe the implicit community of developers and repositories in an Awesome List, or other type of list, and make them available in a visual form to the same people who get value from an Awesome List in list form.</i></b> The speed of insights possible from visualizations in one place should be greater than what could occur by reading each repository individually. 
+
+The idea behind its creation is by being able to quickly understand visually the trends and relationships in a community of related code repositories, it might nudge developers who are a part of that implicit community how think about those projects, where they might contribute, and who is working on the things they are also interested in. 
 
 <!-- ## What Does the awsome-list-visual-explorer-template Template Build?
-
-<b><i>The goal of this project is to surface the characteristics, trends, connections, relationships, etc. that can describe the implicit community of developers and repositories in an Awesome List and make them available in a visual form to the same people who get value from an Awesome List in list form.</i></b>
 
 The template builds a website with a variety of visualizations, usually deployed as a GitHub pages page.
 
