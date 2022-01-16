@@ -32,7 +32,6 @@ WRITE YOUR PURPOSE OF THE REPOSITORY HERE
 - Link to Live Website: <b><a href="">none yet</a></b>
 - Last Ran in Full On: YYYY-MM-DD
 
-
 ## Key Pages That The Template Builds
 ##### Front Page
 This is a catalog of all the code repositories. The organizational structure is based on topics tags on the github repositories themselves and categories that organize those tags set in `category/category_info.json`. 
@@ -58,11 +57,17 @@ Visualization of the most popular repositories including:
 - activity over time of the top 10 most popular repositories
 - licenses of the most popular repositories
 
-## Examples Webpages Built With This Template
+## Additional Information About The awsome-list-visual-explorer-template Template
+
+### Webpages Built With This Template
 
 - https://JustinGOSSES.github.io/awsome-list-visual-explorer-template/
 - https://softwareunderground.github.io/open_geosciene_code_projects_viz/
 - https://github.com/JustinGOSSES/Awesome-Earth-Artificial-Intelligence-visual-explorer
+
+#### Presentations on What's trying to be accomplished with this repository
+- SLIDES PRESENTED DURING HACKATHON: https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel 
+- MEDIUM STORY: https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
 
 ### Prior Work
 <i>What is it based off of?</i>
@@ -76,14 +81,7 @@ The project plan has now been moved to issues: https://github.com/softwareunderg
 
 The code is still largely that of the original  <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a>.
 
-### Completed Changes From Original Project & Possible Future Changes Roadmap 
-https://github.com/softwareunderground/open_geosciene_code_projects_viz/blob/main/changes_needed.md
-
-### Presentations on What's trying to be accomplished with this repository
-
-SLIDES PRESENTED DURING HACKATHON: https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel 
-
-MEDIUM STORY: https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
+Completed Changes From Original Project & Possible Future Changes Roadmap: https://github.com/softwareunderground/open_geosciene_code_projects_viz/blob/main/changes_needed.md
 
 
 ## Overview of How awsome-list-visual-explorer-template Template Works
@@ -97,9 +95,6 @@ At a very high level, there a variety of bash and Python scripts that grab githu
 - They run the bash script in the `_explore/scripts` directory called `grabNewRepos.sh`. This grabs github URLs from the README whose address was added to the `_config.yml` file and puts them in the `_explore/input_lists.json` file. 
 - They run the bash script in the `_explore/scripts` directory called `BUILD.sh`. This is the main build script for the repository and runs a bunch of python files in the scripts folder and also calls the GitHub API to get information like stars and contributors from each GitHub code repository listed in `input_lists.json`. It also replaces the name of the repository used in the template with the name of the new repository listed in `_config.yml`.
 - Lastly, they will run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at  http://127.0.0.1:4000/nameOfYourRepositoryThatWasSetInConfigYamlFile.
-
-
-
 
 ## Prerequisites
 
@@ -183,14 +178,15 @@ As an example, the default version of Ruby used to deploy GitHub Pages on github
 This is still very much an experiment. Please jump in via issues or introduce yourself and your interest.
 
 ## Contributing to the Template
------------- IN PROGESS ------------
+Please find instructions on contributing feedback, issues, pull requests, discussion, thoughts, etc. at https://github.com/JustinGOSSES/awsome-list-visual-explorer-template/blob/main/CONTRIBUTING.md
+
+Before contributing, please read the Template's <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template/blob/main/CODE_OF_CONDUCT.md">code of conduct</>. 
 
 ### Contributing to this repository if not the template
------------- INFORMATION GOES HERE ------------
-
-<i>----- REST OF INFORMATION ABOUT THIS SPECIFIC CODE REPOSITORY IF NOT THE TEMPLATE ITSELF GOES HERE ------</i>
-
+------------ INFORMATION WILL GO HERE ------------
+  
+You might want to mention things like whether github actions is being used to update the metadata pull or how frequently the data is pulled.
 
 ## How to get changes from the template after your repository is already built?
------------- IN PROGESS ------------
+This is still in progress, but the goal is to have things built such that a configuration file could be moved elsewhere, the rest of the repository updated to the latest from the template, the configuration file moved back in, the scripts would be re-run, and the resulting websites and visualizations would be updated with additional visualizations built into the template.
 
