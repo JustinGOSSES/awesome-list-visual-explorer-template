@@ -1,6 +1,6 @@
 # awsome-list-visual-explorer-template
 
-`The awsome-list-visual-explorer-template is a repository designed to be used as a template repository. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.` 
+`The awsome-list-visual-explorer-template is a repository designed to be used as a template repository. If the name of the code repository is not `awsome-list-visual-explorer-template`, you are looking at a code repository made with the template.` 
 
 Users can change a few things in a config file, `_config.yml`, and generate a website that is deployed as a GitHub pages page via a few simple scripts. The website holds visualizations that increase understanding of the list of GitHub repositories. The list of repositories analyzed can come from an <a href="https://github.com/topics/awesome-list">Awesome List</a>, an GitHub org, or any other group of GitHub repositories define in the `_config.yml` file.
 
