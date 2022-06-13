@@ -9,10 +9,7 @@ export GITHUB_DATA=../../explore/github-data
 DATELOG=../LAST_MASTER_UPDATE.txt
 
 # On exit
-function finish {
-    # Log end time
-    echo -e "END\t$(date -u)" >> $DATELOG
-}
+function finish {echo -e "END\t$(date -u)" >> $DATELOG}
 trap finish EXIT
 
 echo "got to line 18 of BUILD.sh file"
