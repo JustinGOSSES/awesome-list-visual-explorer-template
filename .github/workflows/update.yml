@@ -40,8 +40,6 @@ jobs:
         cd ../../
         fi
     - name: Run BUILD script
-      ##with:
-        ##github_token: ${{ secrets.GITHUB_TOKEN }}
       run: |
         export GITHUB_API_TOKEN=${{ secrets.GITHUB_TOKEN }}
         python -m pip install --upgrade pip
@@ -66,7 +64,8 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         force: true
 
-
+##with:
+##github_token: ${{ secrets.GITHUB_TOKEN }}
 
 #   job_1:
 #     name: Add 3 and 10
