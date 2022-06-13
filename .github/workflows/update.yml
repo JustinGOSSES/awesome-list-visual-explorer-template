@@ -40,8 +40,8 @@ jobs:
         cd ../../
         fi
     - name: Run BUILD script
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      ##with:
+        ##github_token: ${{ secrets.GITHUB_TOKEN }}
       run: |
         export GITHUB_API_TOKEN=${{ secrets.GITHUB_TOKEN }}
         python -m pip install --upgrade pip
