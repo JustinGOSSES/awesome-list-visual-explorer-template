@@ -1,8 +1,8 @@
 #### Name is the name of the repository. This will be used throughout in both text, HTML, CSS, and JavaScript files.
-name: "awsome-list-visual-explorer-template"
+name: "awesome-list-visual-explorer-template"
 author: "Justin Gosses"
 #### title is used as the title attribute in HTML pages.
-title: "awsome-list-visual-explorer-template"
+title: "awesome-list-visual-explorer-template"
 description: "This site shows all the GitHub repositories extracted from a given awesome list, as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between code projects!"
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
 ##### A shortname for the main organization if there is one.
@@ -11,7 +11,7 @@ shortname: "visual-explorer"
 # url: "https://softwareunderground.github.io/llnl.github.io/"
 # repo_url: "https://github.com/softwareunderground/llnl.github.io"
 #### This is the repository name and needs to be populated if deploying to a github pages page, which is the defaults.
-baseurl: "/awsome-list-visual-explorer-template"
+baseurl: "/awesome-list-visual-explorer-template"
 
 #### Change these variables to control which awesome list README is parsed and the links to github repositories extracted and then used to populate the page content.
 should_a_readme_be_parsed_for_code_projects: True
@@ -47,13 +47,13 @@ twitter:
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
 # repository: softwareunderground/open_geosciene_code_projects_viz
 #### NOT SURE WHAT THIS LINE DOES BUT TRyING TO AVOID LINKS BEING WRONG SO CHANGING IT
-repository: JustinGOSSES/awsome-list-visual-explorer-template
+repository: JustinGOSSES/awesome-list-visual-explorer-template
 
 #### This is called by the swap_repo_names.sh scripts and replaces all instances of the name of the repository this code is in.
 #### You would want to do this when reusing this template!
 #replace_all_instances_of_this_string_with_string_below_in_config: open_geosciene_code_projects_viz
-replace_all_instances_of_this_string_with_string_below_in_config: awsome-list-visual-explorer-template
-replaced_all_instances_of_string_above_in_config_with: awsome-list-visual-explorer-template
+replace_all_instances_of_this_string_with_string_below_in_config: awesome-list-visual-explorer-template
+replaced_all_instances_of_string_above_in_config_with: awesome-list-visual-explorer-template
 files_to_not_replace_string_in: 
   - _config.yml
   - README.md

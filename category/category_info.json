@@ -3,7 +3,7 @@
         "Awesome": {
             "title": "Awesome",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/performance.svg",
+                "path": "/awesome-list-visual-explorer-template/assets/images/performance.svg",
                 "alt": "having to do with the Awesome Lists"
             },
             "description" : {
@@ -19,7 +19,7 @@
         "DATA MANAGEMENT & VIZ": {
             "title": "DATA MANAGEMENT",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/data-manage.svg",
+                "path": "/awesome-list-visual-explorer-template/assets/images/data-manage.svg",
                 "alt": "Data Management"
             },
             "description": {
@@ -33,7 +33,7 @@
         "WEB SITES & APPLICATIONS": {
             "title": "WEB SITES & APPLICATIONS",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/application.svg",
+                "path": "/awesome-list-visual-explorer-template/assets/images/application.svg",
                 "alt": "WEB SITES & APPLICATIONS"
             },
             "description": {
@@ -53,7 +53,7 @@
         "Visualization": {
             "title": "Visualization",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/prox-app.svg",
+                "path": "/awesome-list-visual-explorer-template/assets/images/prox-app.svg",
                 "alt": "data visualization"
             },
             "description": {
@@ -72,7 +72,7 @@
         "SYSTEM SOFTWARE": {
             "title": "SYSTEM SOFTWARE",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/system-software.svg",
+                "path": "/awesome-list-visual-explorer-template/assets/images/system-software.svg",
                 "alt": "Systems Software"
             },
             "description": {
@@ -90,7 +90,7 @@
         "DATA": {
             "title": "DATA MINING",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/file-systems.svg",
+                "path": "/awesome-list-visual-explorer-template/assets/images/file-systems.svg",
                 "alt": "File Systems"
             },
             "description": {

@@ -20,6 +20,6 @@ Within smaller communities it can be difficult to find applicable open source co
 
 Awesome Lists have limits in that they don't show connections between projects or directly show you how popularity of projects might have changed over time. These are some of the things this project seeks to make a little easier!
 
-More information can be found in the README for the template at <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">https://github.com/JustinGOSSES/awsome-list-visual-explorer-template</a>
+More information can be found in the README for the template at <a href="https://github.com/JustinGOSSES/awesome-list-visual-explorer-template">https://github.com/JustinGOSSES/awesome-list-visual-explorer-template</a>
 
 The README for this repository, which may or may not be the template, is: <a href="https://github.com/{{site.repository}}">https://github.com/{{site.repository}}</a>.

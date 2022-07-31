@@ -21,7 +21,7 @@ with open(path_to_config_file) as file:
 
 #### In the _config.yml file, there are these parts
 # replace_all_instances_of_this_string_with_string_below_in_config: open_geosciene_code_projects_viz
-# replaced_all_instances_of_string_above_in_config_with: awsome-list-visual-explorer-template
+# replaced_all_instances_of_string_above_in_config_with: awesome-list-visual-explorer-template
 # files_to_not_replace_string_in: 
 #   - _config.yml
 #   - README.md
