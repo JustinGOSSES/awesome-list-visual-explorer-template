@@ -149,7 +149,7 @@ function draw_pie_repos(areaID) {
         var subTotal = repoSubset.size;
         // <!-- replaced -->
         // var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only LLNL Contributors', count: repoTotal - subTotal }];
-        var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only SWUNG Contributors', count: repoTotal - subTotal }];
+        var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only Core Org Contributors if Applicable', count: repoTotal - subTotal }];
 
         return data;
     }

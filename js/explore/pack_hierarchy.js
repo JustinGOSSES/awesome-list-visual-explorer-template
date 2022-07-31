@@ -288,7 +288,7 @@ function draw_pack_hierarchy(areaID) {
     function reformatData(obj1, obj2) {
         // <!-- replaced -->
         // var data = { name: 'LLNL Organizations', children: [] };
-        var data = { name: 'SWUNG Organizations', children: [] };
+        var data = { name: 'Core Organizations if applicable', children: [] };
 
         for (var user in obj1['data']) {
             if (obj1['data'][user]['contributedLabRepositories'] === undefined) {

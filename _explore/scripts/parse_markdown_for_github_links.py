@@ -19,10 +19,6 @@ name_of_code_platform_searched = config["name_of_code_platform_searched"]
 
 exclude_these_usernames = config["exclude_these_usernames"]
 
-# url_of_readme = "https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/main/README.md"
-# name_of_awesome_list = "awesome-open-geoscience"
-# name_of_code_platform_searched = "https://github.com"
-
 # Get the current working
 # directory (CWD)
 cwd = os.getcwd()

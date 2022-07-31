@@ -3,10 +3,10 @@ name: "awsome-list-visual-explorer-template"
 author: "Justin Gosses"
 #### title is used as the title attribute in HTML pages.
 title: "awsome-list-visual-explorer-template"
-description: "This site shows all the GitHub repositories extracted from a given awesome list, as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between geoscience code projects!"
+description: "This site shows all the GitHub repositories extracted from a given awesome list, as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between code projects!"
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
 ##### A shortname for the main organization if there is one.
-shortname: "SWUNG"
+shortname: "visual-explorer"
 
 # url: "https://softwareunderground.github.io/llnl.github.io/"
 # repo_url: "https://github.com/softwareunderground/llnl.github.io"
